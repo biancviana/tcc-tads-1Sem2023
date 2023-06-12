@@ -1,0 +1,490 @@
+Escola,Curso,Cor ,Genero,Ano,Idade,Demora dormir,Sonhos ruins,Qualidade do sono,Relação com Amigos,Relação com Professores,Auto-Imag,Fisico,Social,Verbal,Material,Virtual,Mora com pais,Escolari-mãe,Escolari-pai,Nota-exatas,Nota-humanas,Nota-biológicas,Tipo escola,Bullying Total,Sofreu Bullying?,Cor Agrupada,Média-notas,Média-notas-cat,SOFREU-BULLYING
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,0,0,1,0,Não,Ensino médio,Pós-graduação,4,2,3,Pública,1,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,2,Ruim,Boa,Regular,Boa,0,1,0,0,0,Sim,Ensino médio,Fundamental 1,3,4,3,Pública,1,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,1,16,> 3 vezes por semana,1,Ruim,Boa,Boa,Ruim,0,1,2,0,2,Sim,Graduação,Graduação,3,5,4,Pública,5,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Muito ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Graduação,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETIM,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Boa,Boa,Boa,Boa,1,1,2,0,1,Sim,Graduação,Graduação,4,4,3,Pública,5,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,2,Muito ruim,Muito boa,Muito boa,Boa,0,5,1,0,2,Sim,Graduação,Pós-graduação,2,4,5,Pública,8,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Parda,Masculino,1,16,> 3 vezes por semana,1,Ruim,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Graduação,3,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETIM,Integrado,Parda,Feminino,1,16,2-3 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,1,1,0,0,Não,Graduação,Ensino médio,2,4,3,Pública,2,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Feminino,1,16,1-2 vezes por semana,0,Muito ruim,Muito boa,Boa,Regular,1,2,0,0,4,Sim,Ensino médio,Ensino médio,4,3,3,Pública,7,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Parda,Masculino,1,16,1-2 vezes por semana,0,Ruim,Boa,Regular,Boa,0,0,0,0,0,Sim,Graduação,Ensino médio,3,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETIM,Integrado,Parda,Feminino,1,15,1-2 vezes por semana,0,Regular,Boa,Boa,Regular,0,0,0,2,0,Sim,Ensino médio,Ensino médio,2,4,4,Pública,2,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Parda,Masculino,2,16,< 1 vez por semana,1,Boa,Muito boa,Boa,Muito boa,2,0,6,6,2,Sim,Graduação,Pós-graduação,3,4,3,Pública,16,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,1,Muito ruim,Boa,Regular,Boa,0,2,1,0,4,Sim,Ensino médio,Fundamental 2,1,3,3,Pública,7,Sofreu Bullying,Branca,2.3333333333333335,2.3333333333333335,True
+ETIM,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,2,Regular,Muito boa,Muito boa,Muito boa,0,2,0,2,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Feminino,2,16,< 1 vez por semana,2,Muito ruim,Ruim,Regular,Muito ruim,0,3,0,0,0,Não,Pós-graduação,Pós-graduação,5,4,3,Pública,3,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Muito ruim,Muito boa,Regular,Boa,0,0,4,2,0,Sim,Ensino médio,Graduação,3,4,3,Pública,6,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,2,17,< 1 vez por semana,0,Regular,Muito boa,Boa,Regular,0,1,3,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,2,Regular,Boa,Regular,Regular,0,3,2,2,0,Sim,Fundamental ,Fundamental 1,5,5,5,Pública,7,Sofreu Bullying,Não-Branca,5.0,5.0,True
+ETIM,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Boa,Boa,Boa,Regular,0,0,0,0,0,Não,Graduação,Ensino médio,4,3,4,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETIM,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,2,Regular,Boa,Boa,Muito boa,0,2,1,1,2,Sim,Ensino médio,Ensino médio,5,4,3,Pública,6,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,2,17,< 1 vez por semana,2,Muito ruim,Boa,Boa,Regular,1,4,0,0,1,Sim,Graduação,Graduação,4,4,4,Pública,6,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Negra,Masculino,2,16,> 3 vezes por semana,1,Ruim,Muito boa,Regular,Muito boa,2,2,4,5,0,Não,Pós-graduação,Graduação,3,4,2,Pública,13,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Masculino,3,17,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,1,0,2,0,Sim,Ensino médio,Ensino médio,5,4,5,Pública,3,Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Parda,Masculino,3,17,2-3 vezes por semana,0,Muito ruim,Boa,Regular,Boa,0,2,2,0,0,Sim,Graduação,Fundamental 2,2,4,3,Pública,4,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Feminino,3,17,> 3 vezes por semana,2,Muito ruim,Regular,Regular,Ruim,0,4,3,0,0,Sim,Fundamental 2,Ensino médio,3,4,3,Pública,7,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Boa,Boa,Boa,Regular,0,1,0,1,0,Sim,Graduação,Graduação,4,3,3,Pública,2,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,1,Boa,Muito boa,Boa,Regular,0,2,1,0,0,Não,Graduação,Ensino médio,4,4,4,Pública,3,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,1,Ruim,Muito ruim,Ruim,Ruim,0,6,6,0,0,Não,Pós-graduação,Ensino médio,2,3,3,Pública,12,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Negra,Feminino,3,18,> 3 vezes por semana,3,Regular,Muito boa,Boa,Muito ruim,0,0,2,0,0,Não,Ensino médio,Ensino médio,3,4,5,Pública,2,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,3,18,2-3 vezes por semana,0,Ruim,Boa,Muito boa,Muito ruim,0,3,4,0,3,Sim,Ensino médio,Ensino médio,4,5,4,Pública,10,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Ruim,Boa,Boa,Regular,0,1,0,0,0,Sim,Fundamental 2,Ensino médio,3,4,3,Pública,1,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Parda,Feminino,3,18,2-3 vezes por semana,2,Ruim,Boa,Boa,Boa,0,5,0,0,0,Sim,Graduação,Ensino médio,3,5,4,Pública,5,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,0,Boa,Boa,Boa,Muito boa,0,2,1,0,1,Sim,Graduação,Ensino médio,3,4,4,Pública,4,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Regular,Regular,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,5,3,3,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETIM,Integrado,Parda,Feminino,1,15,1-2 vezes por semana,1,Boa,Regular,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,2,4,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,2,1,0,0,Sim,Pós-graduação,Graduação,4,4,4,Pública,3,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,1,15,< 1 vez por semana,1,Regular,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Graduação,Ensino médio,4,5,3,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETIM,Integrado,Parda,Masculino,1,15,< 1 vez por semana,0,Boa,Boa,Muito boa,Muito ruim,0,1,0,1,0,Sim,Ensino médio,Ensino médio,1,5,4,Pública,2,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,1,15,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,5,4,5,Pública,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+ETIM,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,1,Regular,Ruim,Regular,Muito boa,2,4,2,0,1,Sim,Graduação,Graduação,3,4,3,Pública,9,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,1,5,1,0,Não,Ensino médio,Ensino médio,4,5,4,Pública,7,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Parda,Feminino,3,17,2-3 vezes por semana,3,Regular,Muito boa,Boa,Regular,1,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,1,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,3,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,1,0,1,0,0,Sim,Ensino médio,Graduação,3,4,4,Pública,2,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Parda,Masculino,3,17,> 3 vezes por semana,3,Ruim,Muito boa,Regular,Regular,0,2,3,2,0,Sim,Ensino médio,Fundamental 1,4,3,5,Pública,7,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Muito ruim,Regular,Regular,Regular,0,0,4,4,1,Sim,Ensino médio,Ensino médio,2,2,4,Pública,9,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,2,Ruim,Boa,Regular,Muito ruim,0,5,6,3,3,Sim,Ensino médio,Fundamental 2,3,3,3,Pública,17,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Masculino,3,17,2-3 vezes por semana,1,Regular,Muito boa,Boa,Ruim,1,0,2,0,0,Sim,Ensino médio,Pós-graduação,3,3,3,Pública,3,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Masculino,3,18,< 1 vez por semana,0,Boa,Muito boa,Boa,Boa,0,0,0,0,0,Não,Ensino médio,Fundamental 1,3,4,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETIM,Integrado,Branca,Masculino,3,17,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,2,0,4,0,0,Sim,Graduação,Fundamental 2,3,4,3,Pública,6,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,3,17,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,3,3,5,2,0,Não,Fundamental 1,Fundamental 1,2,4,3,Pública,13,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Masculino,3,16,< 1 vez por semana,2,Boa,Muito boa,Regular,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETIM,Integrado,Branca,Masculino,3,18,< 1 vez por semana,0,Muito ruim,Boa,Boa,Regular,0,1,1,0,0,Sim,Pós-graduação,Pós-graduação,5,3,4,Pública,2,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,3,Regular,Muito boa,Regular,Ruim,1,0,2,2,0,Sim,Fundamental 2,Ensino médio,3,4,4,Pública,5,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Parda,Masculino,2,15,> 3 vezes por semana,0,Ruim,Boa,Boa,Regular,0,0,2,0,0,Sim,Fundamental 1,Fundamental 1,3,2,4,Pública,2,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,0,Ruim,Ruim,Ruim,Ruim,1,2,3,1,1,Sim,Ensino médio,Graduação,3,3,3,Pública,8,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Boa,4,2,3,2,0,Sim,Pós-graduação,Ensino médio,4,3,4,Pública,11,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,1,Boa,Boa,Boa,Boa,2,2,4,2,1,Sim,Ensino médio,Graduação,5,5,5,Pública,11,Sofreu Bullying,Branca,5.0,5.0,True
+ETIM,Integrado,Parda,Masculino,2,18,< 1 vez por semana,1,Boa,Boa,Regular,Ruim,1,2,3,2,1,Não,Ensino médio,Ensino médio,3,4,3,Pública,9,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Regular,Boa,Boa,Boa,2,0,6,3,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,11,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,2,17,< 1 vez por semana,0,Regular,Boa,Boa,Boa,4,2,4,0,0,Sim,Ensino médio,Ensino médio,5,3,4,Pública,10,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,1,Regular,Muito boa,Regular,Regular,4,2,6,5,0,Sim,Ensino médio,Ensino médio,2,3,3,Pública,17,Sofreu Bullying,Não-Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,17,< 1 vez por semana,0,Boa,Boa,Boa,Boa,0,0,5,5,0,Não,Graduação,Graduação,4,3,4,Pública,10,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,1,Muito boa,Regular,Muito boa,Ruim,4,0,2,1,1,Sim,Graduação,Graduação,5,3,4,Pública,8,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,1,0,3,1,0,Sim,Graduação,Graduação,5,4,4,Pública,5,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,2,Ruim,Muito boa,Muito boa,Regular,0,5,2,2,0,Não,Ensino médio,Ensino médio,4,5,4,Pública,9,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,3,Muito ruim,Muito boa,Boa,Regular,2,0,2,2,0,Não,Pós-graduação,Graduação,4,5,5,Pública,6,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Parda,Masculino,1,15,> 3 vezes por semana,2,Regular,Boa,Boa,Ruim,1,3,3,3,0,Sim,Ensino médio,Graduação,3,4,3,Pública,10,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,0,Regular,Boa,Boa,Ruim,1,1,6,0,0,Sim,Ensino médio,Ensino médio,3,5,5,Pública,8,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Feminino,1,17,2-3 vezes por semana,2,Regular,Boa,Boa,Regular,1,3,0,2,0,Sim,Ensino médio,Ensino médio,3,5,4,Pública,6,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,1,16,1-2 vezes por semana,2,Regular,Boa,Boa,Ruim,0,1,0,0,0,Sim,Fundamental 2,Graduação,4,4,3,Pública,1,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,16,1-2 vezes por semana,1,Boa,Muito boa,Muito boa,Regular,0,1,1,0,0,Não,Ensino médio,Ensino médio,5,3,3,Pública,2,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Boa,Boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,4,3,3,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+ETIM,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,2,Boa,Muito boa,Muito boa,Ruim,1,2,4,0,0,Não,Fundamental 1,Ensino médio,3,4,4,Pública,7,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,1,Regular,Boa,Boa,Regular,3,2,6,3,0,Não,Graduação,Graduação,4,5,5,Pública,14,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Branca,Masculino,3,17,< 1 vez por semana,0,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,3,4,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETIM,Integrado,Branca,Feminino,3,17,< 1 vez por semana,2,Muito ruim,Regular,Boa,Muito ruim,0,3,5,4,2,Não,Ensino médio,Graduação,3,3,4,Pública,14,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,5,5,Pública,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+ETIM,Integrado,Parda,Feminino,3,17,> 3 vezes por semana,1,Ruim,Boa,Boa,Regular,0,0,2,1,0,Não,Ensino médio,Ensino médio,4,4,5,Pública,3,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Negra,Feminino,3,18,< 1 vez por semana,0,Boa,Boa,Boa,Muito boa,0,1,1,0,0,Sim,Fundamental 2,Fundamental 1,3,4,3,Pública,2,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Negra,Feminino,3,18,2-3 vezes por semana,0,Regular,Regular,Boa,Regular,0,4,5,0,1,Não,Ensino médio,Ensino médio,4,4,4,Pública,10,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,1,Boa,Muito boa,Regular,Ruim,0,0,0,1,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,1,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Negra,Masculino,3,19,2-3 vezes por semana,2,Ruim,Regular,Boa,Ruim,2,6,5,4,2,Sim,Ensino médio,Ensino médio,3,3,4,Pública,19,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,1,Boa,Regular,Boa,Regular,1,4,4,0,1,Sim,Ensino médio,Graduação,4,5,5,Pública,10,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Branca,Masculino,3,18,< 1 vez por semana,0,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,4,5,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETIM,Integrado,Parda,Feminino,3,18,> 3 vezes por semana,2,Regular,Boa,Boa,Regular,3,3,4,3,0,Não,Pós-graduação,Ensino médio,5,4,4,Pública,13,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Masculino,2,18,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,1,1,0,Não,Ensino médio,Ensino médio,2,4,2,Pública,2,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Ruim,2,3,4,0,0,Não,Ensino médio,Fundamental 2,2,3,3,Pública,9,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,5,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETIM,Integrado,Parda,Masculino,3,17,2-3 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito ruim,2,2,2,0,0,Não,Pós-graduação,Ensino médio,4,3,3,Pública,6,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,3,Muito ruim,Ruim,Muito boa,Muito ruim,1,5,4,0,4,Não,Fundamental 1,Ensino médio,1,2,2,Pública,14,Sofreu Bullying,Branca,1.6666666666666667,1.6666666666666667,True
+ETIM,Integrado,Branca,Masculino,3,18,< 1 vez por semana,1,Boa,Boa,Boa,Boa,0,0,0,0,0,Sim,Graduação,Graduação,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETIM,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,2,Regular,Regular,Boa,Muito ruim,1,6,6,2,3,Sim,Pós-graduação,Pós-graduação,4,5,5,Pública,18,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,3,1,0,Não,Ensino médio,Ensino médio,5,4,5,Pública,4,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Branca,Masculino,3,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,1,3,2,0,Não,Pós-graduação,Graduação,4,4,4,Pública,6,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,0,Regular,Boa,Muito boa,Muito boa,0,0,0,0,0,Não,Graduação,Graduação,3,3,3,Pública,0,Não Sofreu Bullying,Branca,3.0,3.0,False
+ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,2,Ruim,Muito boa,Boa,Ruim,0,1,1,1,1,Não,Graduação,Graduação,3,4,4,Pública,4,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,0,Muito ruim,Boa,Boa,Boa,0,0,0,0,0,Não,Fundamental 1,Fundamental 2,3,3,4,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+ETIM,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,5,5,Pública,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+ETIM,Integrado,Branca,Masculino,1,15,1-2 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,1,2,0,0,Não,Ensino médio,Ensino médio,3,4,4,Pública,3,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,15,1-2 vezes por semana,0,Boa,Muito boa,Regular,Muito boa,0,0,0,2,0,Sim,Ensino médio,Fundamental 2,5,4,4,Pública,2,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Parda,Masculino,1,16,> 3 vezes por semana,1,Boa,Boa,Boa,Ruim,0,0,0,1,0,Sim,Graduação,Graduação,4,4,3,Pública,1,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,16,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Muito boa,3,1,2,2,1,Não,Pós-graduação,Graduação,4,4,5,Pública,9,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,1,Regular,Boa,Boa,Boa,2,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,2,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Muito boa,3,0,2,0,0,Não,Graduação,Graduação,3,3,3,Pública,5,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Masculino,1,16,1-2 vezes por semana,0,Ruim,Ruim,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Pós-graduação,4,3,2,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETIM,Integrado,Parda,Masculino,1,15,> 3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,5,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,False
+ETIM,Integrado,Branca,Masculino,1,16,1-2 vezes por semana,0,Regular,Boa,Regular,Boa,0,0,2,0,0,Não,Graduação,Ensino médio,5,3,4,Pública,2,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,1,16,1-2 vezes por semana,0,Regular,Regular,Boa,Regular,4,0,6,3,1,Sim,Ensino médio,Graduação,3,3,3,Pública,14,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,1,0,Sim,Ensino médio,Ensino médio,4,5,4,Pública,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Masculino,1,16,> 3 vezes por semana,1,Ruim,Boa,Regular,Regular,2,2,3,0,0,Não,Graduação,Ensino médio,2,2,2,Pública,7,Sofreu Bullying,Branca,2.0,2.0,True
+ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,1,Regular,Regular,Regular,Boa,1,0,2,5,1,Não,Ensino médio,Ensino médio,3,4,5,Pública,9,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,3,Ruim,Muito boa,Regular,Muito boa,4,3,6,1,0,Não,Graduação,Ensino médio,3,5,4,Pública,14,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Regular,Muito boa,Regular,Regular,0,0,0,0,0,Não,Ensino médio,Graduação,5,4,4,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,0,Muito ruim,Boa,Boa,Regular,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,5,3,5,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETIM,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,2,Ruim,Boa,Boa,Regular,0,2,3,1,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,6,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Masculino,2,17,< 1 vez por semana,0,Regular,Muito boa,Ruim,Muito boa,0,2,4,2,0,Sim,Fundamental 2,Fundamental 2,5,5,5,Pública,8,Sofreu Bullying,Não-Branca,5.0,5.0,True
+ETIM,Integrado,Negra,Masculino,2,16,2-3 vezes por semana,2,Ruim,Muito boa,Boa,Boa,5,0,6,0,4,Sim,Pós-graduação,Ensino médio,4,4,3,Pública,15,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,2,Regular,Regular,Boa,Regular,4,2,6,4,0,Não,Graduação,Fundamental 2,3,4,4,Pública,16,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Muito boa,1,0,5,2,1,Sim,Graduação,Ensino médio,4,4,3,Pública,9,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Ruim,Muito boa,Boa,Boa,0,1,6,0,1,Sim,Pós-graduação,Pós-graduação,4,4,4,Pública,8,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,2,Ruim,Boa,Regular,Regular,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,0,Regular,Boa,Boa,Muito boa,0,1,2,2,0,Sim,Graduação,Graduação,5,5,5,Pública,5,Sofreu Bullying,Branca,5.0,5.0,True
+ETIM,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,2,Regular,Boa,Boa,Muito boa,0,2,0,0,0,Não,Pós-graduação,Ensino médio,3,4,5,Pública,2,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Feminino,3,18,< 1 vez por semana,0,Muito boa,Muito boa,Regular,Boa,5,2,6,2,2,Sim,Graduação,Pós-graduação,2,5,3,Pública,17,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,2,Ruim,Muito boa,Muito boa,Muito boa,0,3,0,4,1,Sim,Graduação,Graduação,4,5,5,Pública,8,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Parda,Feminino,3,19,> 3 vezes por semana,2,Ruim,Muito boa,Boa,Regular,1,2,2,1,0,Não,Ensino médio,Ensino médio,3,4,4,Pública,6,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,1,Boa,Boa,Boa,Boa,0,0,1,2,0,Sim,Fundamental 1,Graduação,1,5,3,Pública,3,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Boa,Boa,Boa,Boa,0,0,1,2,0,Sim,Graduação,Graduação,5,4,4,Pública,3,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Parda,Feminino,3,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito ruim,0,1,3,2,0,Não,Graduação,Ensino médio,3,5,3,Pública,6,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,1,Regular,Boa,Boa,Muito boa,0,2,3,0,0,Sim,Pós-graduação,Pós-graduação,4,4,4,Pública,5,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,3,19,> 3 vezes por semana,1,Regular,Boa,Regular,Regular,0,2,1,1,1,Sim,Ensino médio,Ensino médio,5,4,4,Pública,5,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,3,Regular,Boa,Boa,Muito ruim,1,6,6,6,1,Não,Ensino médio,Fundamental 2,3,5,4,Pública,20,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Muito ruim,Boa,1,2,4,0,0,Sim,Ensino médio,Graduação,2,3,3,Pública,7,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,2,Ruim,Muito boa,Boa,Muito boa,3,1,3,2,0,Sim,Graduação,Ensino médio,5,4,4,Pública,9,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,2,Boa,Boa,Boa,Regular,0,0,1,1,0,Sim,Graduação,Graduação,4,4,4,Pública,2,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,1,Boa,Muito boa,Regular,Boa,1,4,4,0,3,Sim,Fundamental 1,Ensino médio,3,4,3,Pública,12,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Negra,Feminino,2,17,2-3 vezes por semana,2,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Graduação,3,4,5,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETIM,Integrado,Parda,Feminino,2,17,< 1 vez por semana,0,Regular,Boa,Muito boa,Muito ruim,0,2,4,0,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,6,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,2,17,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Graduação,3,4,3,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,3,Regular,Regular,Boa,Muito ruim,3,4,2,0,0,Sim,Graduação,Ensino médio,3,4,4,Pública,9,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,3,Boa,Boa,Boa,Muito boa,0,3,4,0,0,Sim,Fundamental 2,Fundamental 1,3,5,4,Pública,7,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Regular,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Graduação,Pós-graduação,4,3,3,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+ETIM,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Muito boa,Muito boa,Regular,Boa,4,4,2,3,4,Não,Graduação,Graduação,3,4,3,Pública,17,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Regular,Boa,Boa,Boa,2,0,1,0,0,Sim,Ensino médio,Fundamental 2,4,3,3,Pública,3,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Boa,Boa,Boa,Muito boa,3,2,2,2,0,Sim,Graduação,Pós-graduação,1,4,3,Pública,9,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Parda,Feminino,1,16,2-3 vezes por semana,2,Regular,Boa,Boa,Ruim,2,3,2,1,0,Sim,Ensino médio,Ensino médio,2,4,2,Pública,8,Sofreu Bullying,Não-Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,1,0,Sim,Graduação,Fundamental 2,4,4,4,Pública,1,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Feminino,1,16,< 1 vez por semana,0,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,5,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETIM,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,0,Ruim,Boa,Boa,Boa,0,3,1,1,0,Sim,Ensino médio,Ensino médio,5,5,3,Pública,5,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,2,Boa,Boa,Boa,Ruim,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,3,5,3,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETIM,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,0,Regular,Muito boa,Boa,Muito boa,0,0,1,0,0,Sim,Ensino médio,Ensino médio,4,5,4,Pública,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,1,Regular,Boa,Boa,Ruim,0,0,0,0,1,Não,Ensino médio,Ensino médio,3,5,3,Pública,1,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,3,Ruim,Boa,Regular,Ruim,1,4,3,1,0,Não,Ensino médio,Graduação,5,3,2,Pública,9,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Ruim,Boa,Boa,Ruim,4,1,6,2,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,13,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Boa,Boa,Boa,Boa,0,0,0,0,0,Não,Pós-graduação,Ensino médio,3,5,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,1,Ruim,Regular,Regular,Ruim,4,0,2,2,0,Sim,Fundamental 2,Graduação,4,2,3,Pública,8,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Negra,Masculino,3,18,1-2 vezes por semana,0,Boa,Muito boa,Boa,Boa,2,3,3,0,1,Sim,Ensino médio,Ensino médio,3,4,4,Pública,9,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Negra,Masculino,3,18,1-2 vezes por semana,0,Regular,Boa,Regular,Boa,0,0,1,0,0,Sim,Fundamental 1,Fundamental 1,1,3,3,Pública,1,Sofreu Bullying,Não-Branca,2.3333333333333335,2.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Regular,Boa,Regular,Muito boa,1,0,3,2,2,Sim,Pós-graduação,Ensino médio,4,4,4,Pública,8,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Negra,Feminino,1,15,< 1 vez por semana,1,Regular,Boa,Boa,Regular,2,0,0,1,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,3,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Parda,Masculino,1,16,1-2 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,1,2,0,0,0,Sim,Ensino médio,Graduação,5,5,5,Pública,3,Sofreu Bullying,Não-Branca,5.0,5.0,True
+ETIM,Integrado,Parda,Masculino,1,15,< 1 vez por semana,0,Regular,Muito boa,Boa,Muito boa,4,2,5,6,4,Não,Ensino médio,Graduação,3,3,3,Pública,21,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Masculino,1,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Muito boa,0,2,2,1,1,Não,Ensino médio,Graduação,2,5,4,Pública,6,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,16,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Ruim,2,2,6,0,1,Sim,Ensino médio,Ensino médio,4,4,4,Pública,11,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,1,Regular,Regular,Boa,Ruim,1,2,5,2,6,Não,Fundamental 1,Fundamental 2,5,4,3,Pública,16,Sofreu Bullying,Branca,4.0,4.0,True
+ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Regular,Muito boa,Boa,Muito boa,0,0,0,4,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,4,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Negra,Masculino,1,15,2-3 vezes por semana,2,Boa,Muito boa,Boa,Boa,4,0,2,6,3,Sim,Ensino médio,Fundamental 2,4,4,3,Pública,15,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,1,Muito boa,Boa,Boa,Regular,0,0,0,0,0,Sim,Graduação,Graduação,3,2,2,Pública,0,Não Sofreu Bullying,Branca,2.3333333333333335,2.3333333333333335,False
+ETIM,Integrado,Parda,Feminino,1,15,< 1 vez por semana,2,Ruim,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Graduação,Ensino médio,4,3,1,Pública,1,Sofreu Bullying,Não-Branca,2.6666666666666665,2.6666666666666665,True
+ETIM,Integrado,Negra,Feminino,1,15,< 1 vez por semana,1,Ruim,Boa,Boa,Boa,0,1,1,0,0,Não,Graduação,Ensino médio,4,3,3,Pública,2,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Parda,Masculino,2,16,< 1 vez por semana,1,Regular,Boa,Boa,Boa,2,0,0,0,0,Sim,Ensino médio,Graduação,4,5,4,Pública,2,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETIM,Integrado,Parda,Masculino,2,16,> 3 vezes por semana,1,Regular,Boa,Regular,Boa,2,0,3,0,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,5,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Feminino,2,17,> 3 vezes por semana,2,Muito ruim,Boa,Boa,Muito ruim,0,3,6,0,0,Não,Graduação,Ensino médio,4,5,5,Pública,9,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETIM,Integrado,Branca,Masculino,2,16,< 1 vez por semana,2,Regular,Boa,Boa,Boa,4,0,6,0,0,Sim,Pós-graduação,Graduação,3,4,3,Pública,10,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,2,Muito ruim,Boa,Boa,Regular,4,3,6,1,5,Sim,Ensino médio,Ensino médio,3,4,3,Pública,19,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,2,Ruim,Regular,Regular,Regular,0,6,3,1,0,Sim,Ensino médio,Ensino médio,3,4,3,Pública,10,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,2,Ruim,Muito boa,Boa,Boa,1,2,4,2,2,Sim,Pós-graduação,Ensino médio,4,4,3,Pública,11,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Ruim,Ruim,Regular,Muito ruim,4,4,6,2,2,Sim,Ensino médio,Ensino médio,2,4,3,Pública,18,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,0,Regular,Regular,Muito boa,Boa,1,0,6,0,1,Não,Graduação,Ensino médio,3,4,2,Pública,8,Sofreu Bullying,Branca,3.0,3.0,True
+ETIM,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,0,Ruim,Regular,Boa,Boa,2,4,4,2,1,Sim,Pós-graduação,Graduação,4,4,3,Pública,13,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,2,0,2,2,0,Sim,Graduação,Pós-graduação,4,4,3,Pública,6,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,0,Regular,Muito boa,Boa,Muito boa,4,0,2,0,0,Sim,Ensino médio,Fundamental 1,5,5,5,Pública,6,Sofreu Bullying,Branca,5.0,5.0,True
+ETIM,Integrado,Parda,Masculino,3,18,> 3 vezes por semana,0,Boa,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Graduação,Graduação,3,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETIM,Integrado,Branca,Masculino,3,19,> 3 vezes por semana,1,Ruim,Boa,Boa,Muito boa,4,4,4,4,2,Não,Ensino médio,Ensino médio,2,5,4,Pública,18,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Parda,Masculino,3,18,2-3 vezes por semana,3,Regular,Muito boa,Boa,Ruim,1,0,3,1,2,Sim,Ensino médio,Ensino médio,4,4,4,Pública,7,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Negra,Masculino,3,19,< 1 vez por semana,0,Ruim,Regular,Boa,Ruim,2,0,4,6,0,Sim,Graduação,Fundamental 1,5,4,3,Pública,12,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETIM,Integrado,Parda,Masculino,3,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,2,0,0,2,0,Não,Ensino médio,Ensino médio,4,4,3,Pública,4,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Parda,Masculino,3,18,> 3 vezes por semana,2,Boa,Muito boa,Boa,Boa,1,0,4,4,0,Não,Fundamental 1,Ensino médio,4,4,3,Pública,9,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETIM,Integrado,Negra,Masculino,3,18,1-2 vezes por semana,0,Boa,Boa,Boa,Regular,1,0,2,2,0,Sim,Ensino médio,Ensino médio,3,2,2,Pública,5,Sofreu Bullying,Não-Branca,2.3333333333333335,2.3333333333333335,True
+IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Boa,Muito boa,Boa,Boa,4,0,4,2,0,Sim,Ensino médio,Graduação,5,4,4,Pública,10,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+IFSP,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,0,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Não,Fundamental 2,Graduação,3,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,False
+IFSP,Integrado,Parda,Masculino,2,17,< 1 vez por semana,0,Boa,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,5,Pública,0,Não Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,False
+IFSP,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,1,Ruim,Muito boa,Boa,Boa,0,1,0,2,0,Não,Ensino médio,Fundamental 2,4,4,5,Pública,3,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+IFSP,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,1,Regular,Boa,Boa,Regular,1,0,2,0,0,Sim,Ensino médio,Graduação,4,4,4,Pública,3,Sofreu Bullying,Branca,4.0,4.0,True
+IFSP,Integrado,Parda,Feminino,2,16,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,2,0,2,0,Não,Fundamental 2,Ensino médio,3,4,4,Pública,4,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+IFSP,Integrado,Parda,Feminino,2,17,1-2 vezes por semana,0,Regular,Boa,Boa,Boa,1,0,3,1,0,Sim,Fundamental 2,Fundamental 2,4,4,4,Pública,5,Sofreu Bullying,Não-Branca,4.0,4.0,True
+IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,2,0,0,0,0,Sim,Pós-graduação,Pós-graduação,5,5,5,Pública,2,Sofreu Bullying,Branca,5.0,5.0,True
+IFSP,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Boa,Boa,Boa,Regular,4,1,4,1,2,Sim,Pós-graduação,Pós-graduação,3,3,3,Pública,12,Sofreu Bullying,Branca,3.0,3.0,True
+IFSP,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,0,Boa,Muito boa,Boa,Regular,2,0,2,0,0,Sim,Graduação,Ensino médio,3,3,3,Pública,4,Sofreu Bullying,Branca,3.0,3.0,True
+IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Graduação,Pós-graduação,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+IFSP,Integrado,Negra,Feminino,2,17,> 3 vezes por semana,2,Ruim,Boa,Muito boa,Boa,0,5,3,0,2,Não,Pós-graduação,Pós-graduação,3,4,4,Pública,10,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+IFSP,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,0,Regular,Boa,Boa,Regular,2,1,5,2,3,Sim,Pós-graduação,Ensino médio,4,5,4,Pública,13,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+IFSP,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,0,Regular,Muito boa,Regular,Regular,0,1,2,0,0,Não,Graduação,Graduação,1,4,3,Pública,3,Sofreu Bullying,Não-Branca,2.6666666666666665,2.6666666666666665,True
+IFSP,Integrado,Negra,Feminino,2,17,1-2 vezes por semana,2,Regular,Muito boa,Regular,Regular,1,0,1,0,0,Sim,Fundamental 2,Fundamental 1,4,4,3,Pública,2,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+IFSP,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,1,Regular,Regular,Boa,Muito ruim,4,6,6,6,4,Não,Ensino médio,Fundamental 2,3,4,4,Pública,26,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+IFSP,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,3,Regular,Muito boa,Regular,Muito ruim,2,0,3,0,0,Sim,Ensino médio,Graduação,2,4,3,Pública,5,Sofreu Bullying,Branca,3.0,3.0,True
+IFSP,Integrado,Branca,Masculino,2,15,2-3 vezes por semana,1,Regular,Boa,Regular,Boa,4,2,6,2,3,Sim,Ensino médio,Ensino médio,4,5,4,Pública,17,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+IFSP,Integrado,Negra,Feminino,2,16,2-3 vezes por semana,1,Ruim,Regular,Boa,Regular,2,2,3,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,7,Sofreu Bullying,Não-Branca,4.0,4.0,True
+IFSP,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,0,Boa,Muito boa,Regular,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,4,3,3,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,1,Boa,Boa,Boa,Boa,4,0,4,2,0,Sim,Graduação,Ensino médio,4,4,3,Pública,10,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+IFSP,Integrado,Parda,Feminino,2,15,1-2 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,1,0,Sim,Graduação,Ensino médio,3,4,3,Pública,1,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+IFSP,Integrado,Parda,Feminino,2,15,> 3 vezes por semana,2,Ruim,Regular,Regular,Muito ruim,1,3,1,0,0,Sim,Graduação,Graduação,3,5,4,Pública,5,Sofreu Bullying,Não-Branca,4.0,4.0,True
+IFSP,Integrado,Negra,Masculino,2,16,> 3 vezes por semana,2,Regular,Boa,Boa,Ruim,0,3,3,0,0,Sim,Graduação,Graduação,3,4,4,Pública,6,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,3,3,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+IFSP,Integrado,Parda,Feminino,2,16,> 3 vezes por semana,1,Regular,Boa,Muito boa,Regular,1,6,3,4,2,Não,Ensino médio,Ensino médio,2,4,3,Pública,16,Sofreu Bullying,Não-Branca,3.0,3.0,True
+IFSP,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,0,Regular,Boa,Muito boa,Muito boa,0,2,0,0,0,Sim,Ensino médio,Ensino médio,5,5,4,Pública,2,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+IFSP,Integrado,Negra,Masculino,2,17,2-3 vezes por semana,0,Regular,Regular,Regular,Regular,0,0,0,1,0,Sim,Fundamental 2,Ensino médio,3,4,3,Pública,1,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Regular,Muito boa,Muito boa,Ruim,0,1,1,0,0,Sim,Graduação,Graduação,3,4,3,Pública,2,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,0,Boa,Ruim,Muito boa,Boa,0,6,3,2,4,Não,Graduação,Ensino médio,3,5,4,Pública,15,Sofreu Bullying,Branca,4.0,4.0,True
+IFSP,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,2,Regular,Boa,Boa,Regular,0,2,6,0,0,Sim,Graduação,Graduação,4,4,1,Pública,8,Sofreu Bullying,Branca,3.0,3.0,True
+IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Ruim,Regular,Boa,Ruim,0,1,0,0,0,Sim,Fundamental 1,Fundamental 1,4,5,4,Pública,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+IFSP,Integrado,Negra,Feminino,2,16,> 3 vezes por semana,1,Boa,Muito boa,Muito boa,Muito ruim,0,0,0,1,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,1,Sofreu Bullying,Não-Branca,4.0,4.0,True
+IFSP,Integrado,Negra,Feminino,2,17,1-2 vezes por semana,0,Ruim,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,5,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+IFSP,Integrado,Parda,Feminino,2,16,> 3 vezes por semana,2,Regular,Boa,Boa,Boa,0,5,0,0,0,Sim,Graduação,Graduação,5,4,5,Pública,5,Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,True
+IFSP,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,1,Boa,Boa,Boa,Regular,0,0,0,0,0,Não,Pós-graduação,Ensino médio,3,4,2,Pública,0,Não Sofreu Bullying,Branca,3.0,3.0,False
+IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Boa,Regular,Boa,Regular,1,4,0,0,0,Não,Ensino médio,Ensino médio,4,3,3,Pública,5,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+IFSP,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Muito ruim,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,5,3,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+IFSP,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Boa,Muito ruim,0,0,0,0,0,Sim,Pós-graduação,Ensino médio,4,5,3,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+IFSP,Integrado,Negra,Feminino,1,15,1-2 vezes por semana,1,Boa,Boa,Boa,Regular,0,2,3,0,0,Sim,Ensino médio,Ensino médio,3,4,2,Pública,5,Sofreu Bullying,Não-Branca,3.0,3.0,True
+IFSP,Integrado,Branca,Feminino,1,15,< 1 vez por semana,2,Boa,Muito boa,Muito boa,Regular,0,3,3,0,2,Sim,Ensino médio,Ensino médio,2,5,2,Pública,8,Sofreu Bullying,Branca,3.0,3.0,True
+IFSP,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,1,Regular,Boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Graduação,Fundamental 2,3,3,3,Pública,0,Não Sofreu Bullying,Branca,3.0,3.0,False
+IFSP,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Boa,0,0,1,0,0,Sim,Ensino médio,Graduação,2,4,3,Pública,1,Sofreu Bullying,Branca,3.0,3.0,True
+IFSP,Integrado,Parda,Feminino,1,15,> 3 vezes por semana,0,Ruim,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Fundamental 1,Graduação,4,4,4,Pública,1,Sofreu Bullying,Não-Branca,4.0,4.0,True
+IFSP,Integrado,Branca,Feminino,1,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Graduação,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+IFSP,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,0,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,2,4,4,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+RB,Integrado,Branca,Masculino,1,16,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,0,3,0,0,Sim,Pós-graduação,Graduação,4,4,4,Privada,3,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,1,0,1,0,0,Sim,Graduação,Graduação,3,4,4,Privada,2,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Regular,Muito boa,Regular,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,2,4,3,Privada,0,Não Sofreu Bullying,Branca,3.0,3.0,False
+RB,Integrado,Parda,Feminino,1,15,> 3 vezes por semana,2,Regular,Muito boa,Regular,Regular,0,6,3,3,0,Não,Pós-graduação,Pós-graduação,2,4,4,Privada,12,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Muito boa,Muito boa,Muito ruim,Muito boa,0,0,0,4,0,Sim,Graduação,Pós-graduação,4,4,5,Privada,4,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Ruim,2,2,6,3,0,Sim,Pós-graduação,Pós-graduação,4,4,4,Privada,13,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,2,Regular,Boa,Boa,Muito boa,2,1,6,5,2,Sim,Graduação,Pós-graduação,5,4,4,Privada,16,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Regular,Boa,Boa,Regular,0,1,4,2,2,Sim,Graduação,Pós-graduação,5,4,4,Privada,9,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Regular,Boa,Muito boa,Regular,0,2,1,0,0,Sim,Pós-graduação,Graduação,5,2,4,Privada,3,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,1,15,< 1 vez por semana,1,Muito boa,Muito boa,Muito boa,Muito boa,0,1,1,2,0,Sim,Pós-graduação,Pós-graduação,2,4,3,Privada,4,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Muito boa,Muito boa,Muito boa,Ruim,0,3,5,6,2,Sim,Pós-graduação,Pós-graduação,1,4,5,Privada,16,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+RB,Integrado,Branca,Feminino,1,14,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Graduação,4,5,4,Privada,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+RB,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,1,Ruim,Boa,Muito boa,Regular,0,5,2,0,0,Não,Pós-graduação,Pós-graduação,5,2,5,Privada,7,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,0,Boa,Boa,Boa,Regular,0,1,0,0,0,Sim,Pós-graduação,Pós-graduação,5,4,4,Privada,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,3,0,0,Sim,Graduação,Graduação,3,3,5,Privada,3,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,0,1,1,0,0,Sim,Graduação,Graduação,2,2,2,Privada,2,Sofreu Bullying,Branca,2.0,2.0,True
+RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,1,0,0,Sim,Graduação,Graduação,5,3,5,Privada,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Muito boa,Muito boa,Muito boa,Boa,1,3,2,1,0,Sim,Graduação,Graduação,4,4,4,Privada,7,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,2,Boa,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,4,5,5,Privada,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+RB,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Regular,Regular,Muito boa,Boa,0,0,4,0,0,Sim,Pós-graduação,Pós-graduação,3,5,4,Privada,4,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,0,Regular,Boa,Muito boa,Boa,0,0,1,0,0,Sim,Pós-graduação,Pós-graduação,5,5,5,Privada,1,Sofreu Bullying,Branca,5.0,5.0,True
+RB,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,2,Boa,Boa,Muito boa,Boa,0,0,1,0,0,Sim,Pós-graduação,Pós-graduação,2,5,4,Privada,1,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,2,15,1-2 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,0,1,1,2,0,Não,Graduação,Graduação,3,4,4,Privada,4,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,1,Regular,Boa,Boa,Regular,0,3,3,3,0,Sim,Pós-graduação,Pós-graduação,4,4,3,Privada,9,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,1,Regular,Boa,Regular,Ruim,1,4,3,2,2,Não,Pós-graduação,Graduação,3,3,3,Privada,12,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,1,0,0,0,Sim,Ensino médio,Graduação,4,5,4,Privada,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,1,2,0,0,Sim,Pós-graduação,Pós-graduação,2,3,4,Privada,3,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Masculino,2,18,> 3 vezes por semana,1,Boa,Boa,Muito boa,Boa,1,2,2,0,0,Sim,Graduação,Pós-graduação,1,5,3,Privada,5,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Muito boa,0,0,1,1,1,Sim,Pós-graduação,Graduação,4,4,4,Privada,3,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Boa,Muito boa,0,0,2,0,1,Sim,Fundamental 1,Fundamental 2,1,3,4,Privada,3,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Boa,Ruim,0,0,1,2,0,Sim,Graduação,Pós-graduação,4,4,4,Privada,3,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,2,Regular,Muito boa,Muito boa,Regular,0,0,1,0,0,Sim,Pós-graduação,Pós-graduação,3,5,2,Privada,1,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,2,0,0,0,Sim,Ensino médio,Ensino médio,5,4,5,Privada,2,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+RB,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,0,Regular,Muito boa,Boa,Regular,0,0,4,0,0,Sim,Graduação,Graduação,2,4,3,Privada,4,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,2,Muito boa,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Graduação,Graduação,4,4,4,Privada,1,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,1,Regular,Muito boa,Boa,Ruim,0,0,2,0,0,Sim,Graduação,Graduação,3,3,4,Privada,2,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+RB,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Ruim,0,2,0,0,0,Não,Graduação,Graduação,1,4,3,Privada,2,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+RB,Integrado,Branca,Feminino,3,16,> 3 vezes por semana,3,Muito ruim,Muito boa,Boa,Ruim,0,0,0,0,0,Não,Pós-graduação,Pós-graduação,3,5,3,Privada,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+RB,Integrado,Branca,Masculino,3,16,< 1 vez por semana,1,Regular,Muito boa,Regular,Muito boa,0,2,3,0,2,Não,Graduação,Ensino médio,4,4,4,Privada,7,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,1,2,0,0,Não,Graduação,Graduação,1,5,3,Privada,3,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Feminino,3,17,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,0,1,0,0,Sim,Graduação,Graduação,4,4,5,Privada,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Regular,0,3,0,0,0,Sim,Graduação,Pós-graduação,2,5,3,Privada,3,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+RB,Integrado,Branca,Feminino,3,16,2-3 vezes por semana,1,Ruim,Regular,Regular,Boa,1,6,3,1,5,Sim,Pós-graduação,Pós-graduação,3,4,4,Privada,16,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,3,17,< 1 vez por semana,1,Boa,Muito boa,Boa,Regular,0,3,2,0,0,Sim,Pós-graduação,Pós-graduação,4,3,4,Privada,5,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Boa,Muito boa,Boa,Regular,0,1,0,0,0,Sim,Graduação,Graduação,3,3,3,Privada,1,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,0,Boa,Muito boa,Boa,Muito boa,0,1,0,0,0,Sim,Graduação,Graduação,3,4,4,Privada,1,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,3,Regular,Muito boa,Boa,Regular,0,0,1,0,0,Sim,Graduação,Graduação,3,5,4,Privada,1,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Não,Pós-graduação,Graduação,3,4,4,Privada,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Ruim,Muito boa,Boa,Regular,0,1,2,0,0,Sim,Graduação,Pós-graduação,4,4,5,Privada,3,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+RB,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,2,Regular,Muito boa,Boa,Ruim,0,2,1,0,0,Não,Graduação,Pós-graduação,3,5,4,Privada,3,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Masculino,3,16,< 1 vez por semana,0,Muito boa,Muito boa,Muito boa,Muito boa,0,2,0,0,0,Sim,Pós-graduação,Pós-graduação,5,5,5,Privada,2,Sofreu Bullying,Branca,5.0,5.0,True
+RB,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Boa,Muito boa,Boa,Boa,0,0,1,0,0,Não,Pós-graduação,Graduação,4,3,4,Privada,1,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Ruim,Muito boa,Muito boa,Boa,0,0,4,0,0,Sim,Graduação,Graduação,3,5,4,Privada,4,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Feminino,3,17,< 1 vez por semana,1,Boa,Muito boa,Muito boa,Boa,0,1,0,0,0,Não,Graduação,Graduação,4,4,4,Privada,1,Sofreu Bullying,Branca,4.0,4.0,True
+RB,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,0,0,1,1,0,Não,Pós-graduação,Pós-graduação,3,4,3,Privada,2,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+RB,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,3,Regular,Boa,Muito boa,Boa,0,3,2,0,3,Sim,Ensino médio,Pós-graduação,5,5,5,Privada,8,Sofreu Bullying,Branca,5.0,5.0,True
+RB,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito boa,0,1,0,0,1,Não,Pós-graduação,Pós-graduação,2,4,5,Privada,2,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito ruim,0,0,0,1,0,Sim,Pós-graduação,Pós-graduação,2,5,4,Privada,1,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+RB,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,1,1,1,1,0,Sim,Graduação,Ensino médio,3,3,3,Privada,4,Sofreu Bullying,Branca,3.0,3.0,True
+RB,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Boa,0,5,0,0,1,Sim,Graduação,Graduação,1,4,3,Privada,6,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+SJ,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Muito ruim,Boa,Muito boa,Regular,1,1,3,1,1,Sim,Graduação,Graduação,1,4,4,Privada,7,Sofreu Bullying,Branca,3.0,3.0,True
+SJ,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Muito ruim,Muito boa,Muito boa,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,5,4,5,Privada,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+SJ,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Regular,Boa,Boa,Regular,2,6,6,6,5,Sim,Ensino médio,Graduação,5,4,3,Privada,25,Sofreu Bullying,Branca,4.0,4.0,True
+SJ,Integrado,Branca,Feminino,1,15,< 1 vez por semana,0,Muito ruim,Muito boa,Boa,Muito boa,0,1,0,3,0,Sim,Pós-graduação,Pós-graduação,5,3,2,Privada,4,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+SJ,Integrado,Negra,Feminino,1,15,1-2 vezes por semana,0,Muito ruim,Muito boa,Muito boa,Muito boa,0,0,3,1,0,Sim,Ensino médio,Fundamental 1,2,4,4,Privada,4,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+SJ,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Regular,Muito boa,Regular,Regular,1,2,4,4,1,Sim,Pós-graduação,Graduação,5,5,3,Privada,12,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+SJ,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Ruim,Boa,Regular,Muito ruim,3,0,6,6,2,Sim,Graduação,Pós-graduação,4,5,2,Privada,17,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+SJ,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,0,Regular,Regular,Boa,Regular,0,1,5,3,0,Não,Ensino médio,Ensino médio,2,5,5,Privada,9,Sofreu Bullying,Branca,4.0,4.0,True
+SJ,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,0,Ruim,Boa,Regular,Muito ruim,0,3,6,2,4,Sim,Pós-graduação,Pós-graduação,5,5,5,Privada,15,Sofreu Bullying,Branca,5.0,5.0,True
+SJ,Integrado,Branca,Feminino,1,14,2-3 vezes por semana,0,Regular,Muito boa,Regular,Muito ruim,2,2,4,3,2,Sim,Ensino médio,Ensino médio,1,3,4,Privada,13,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+SJ,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Ruim,Boa,Muito boa,Ruim,0,4,2,1,0,Não,Pós-graduação,Pós-graduação,4,4,4,Privada,7,Sofreu Bullying,Branca,4.0,4.0,True
+SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Ensino médio,4,5,5,Privada,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Graduação,Graduação,3,4,4,Privada,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+SJ,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,1,Muito ruim,Muito boa,Regular,Boa,1,3,3,0,4,Não,Pós-graduação,Fundamental 1,3,2,2,Privada,11,Sofreu Bullying,Não-Branca,2.3333333333333335,2.3333333333333335,True
+SJ,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,0,Muito ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,3,4,5,Privada,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Muito ruim,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Graduação,Graduação,3,5,5,Privada,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+SJ,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Muito ruim,Muito boa,Boa,Boa,0,1,0,0,0,Não,Ensino médio,Pós-graduação,2,2,4,Privada,1,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+SJ,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,0,Ruim,Regular,Boa,Boa,1,6,3,1,2,Sim,Ensino médio,Pós-graduação,4,4,3,Privada,13,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+SJ,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,1,1,1,0,Sim,Graduação,Ensino médio,2,5,5,Privada,3,Sofreu Bullying,Branca,4.0,4.0,True
+SJ,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,0,Regular,Muito boa,Boa,Boa,2,4,4,5,5,Sim,Pós-graduação,Pós-graduação,4,3,3,Privada,20,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Regular,Muito boa,Muito boa,Regular,0,2,0,4,2,Sim,Graduação,Ensino médio,4,3,4,Privada,8,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+SJ,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Regular,Boa,Regular,Muito ruim,0,3,2,1,0,Sim,Pós-graduação,Pós-graduação,2,3,3,Privada,6,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+SJ,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,0,Regular,Boa,Boa,Regular,0,3,5,2,0,Sim,Pós-graduação,Ensino médio,4,5,5,Privada,10,Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,True
+SJ,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,0,Regular,Boa,Muito boa,Ruim,0,3,4,4,1,Não,Pós-graduação,Graduação,5,5,5,Privada,12,Sofreu Bullying,Branca,5.0,5.0,True
+SJ,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,5,1,0,0,Sim,Graduação,Pós-graduação,5,5,5,Privada,6,Sofreu Bullying,Branca,5.0,5.0,True
+SJ,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Regular,Boa,Muito boa,Ruim,2,6,6,2,4,Sim,Ensino médio,Graduação,2,4,4,Privada,20,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+SJ,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,1,Muito ruim,Muito boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Graduação,5,4,5,Privada,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+SJ,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,0,Regular,Muito boa,Muito boa,Regular,0,1,0,0,0,Sim,Pós-graduação,Pós-graduação,3,5,5,Privada,1,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+SJ,Integrado,Branca,Masculino,3,19,2-3 vezes por semana,1,Regular,Regular,Regular,Muito ruim,4,5,6,2,5,Não,Ensino médio,Ensino médio,2,3,1,Privada,22,Sofreu Bullying,Branca,2.0,2.0,True
+SJ,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,2,6,4,3,Sim,Graduação,Pós-graduação,2,5,5,Privada,15,Sofreu Bullying,Branca,4.0,4.0,True
+SJ,Integrado,Branca,Masculino,3,17,< 1 vez por semana,1,Muito ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,2,5,3,Privada,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+SJ,Integrado,Branca,Feminino,3,17,< 1 vez por semana,0,Regular,Boa,Boa,Boa,0,2,6,0,5,Não,Ensino médio,Graduação,3,5,3,Privada,13,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+SJ,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,0,Ruim,Muito boa,Muito boa,Muito boa,0,2,0,0,0,Não,Pós-graduação,Ensino médio,5,5,5,Privada,2,Sofreu Bullying,Branca,5.0,5.0,True
+SJ,Integrado,Branca,Masculino,3,17,1-2 vezes por semana,1,Muito ruim,Boa,Boa,Ruim,0,0,0,0,0,Não,Graduação,Graduação,5,3,5,Privada,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETEC-OS,Conc-Sub,Branca,Feminino,3,19,< 1 vez por semana,2,Regular,Boa,Regular,Regular,3,3,3,3,3,Sim,Ensino médio,Ensino médio,3,4,4,Pública,15,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-OS,Conc-Sub,Branca,Feminino,1,16,> 3 vezes por semana,2,Regular,Muito boa,Boa,Regular,3,3,3,3,3,Sim,Ensino médio,Fundamental 1,4,5,5,Pública,15,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETEC-OS,Conc-Sub,Parda,Masculino,1,18,1-2 vezes por semana,1,Boa,Boa,Regular,Regular,3,3,3,3,3,Sim,Fundamental 1,Fundamental 1,3,4,4,Pública,15,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-OS,Conc-Sub,Negra,Feminino,1,19,< 1 vez por semana,0,Regular,Muito boa,Regular,Boa,4,4,4,4,4,Sim,Fundamental 1,Fundamental 1,3,4,4,Pública,20,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-OS,Conc-Sub,Parda,Feminino,1,18,2-3 vezes por semana,1,Regular,Muito boa,Regular,Ruim,2,2,2,2,2,Não,Fundamental 1,Ensino médio,3,4,4,Pública,10,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-OS,Conc-Sub,Branca,Masculino,1,18,2-3 vezes por semana,2,Regular,Boa,Boa,Regular,3,3,3,3,3,Não,Graduação,Graduação,3,3,3,Pública,15,Sofreu Bullying,Branca,3.0,3.0,True
+ETEC-OS,Conc-Sub,Branca,Feminino,1,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,4,4,4,4,4,Não,Ensino médio,Ensino médio,3,3,3,Pública,20,Sofreu Bullying,Branca,3.0,3.0,True
+ETEC-OS,Conc-Sub,Branca,Feminino,1,18,< 1 vez por semana,1,Boa,Muito boa,Boa,Muito boa,5,5,5,5,5,Sim,Ensino médio,Ensino médio,3,4,4,Pública,25,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-OS,Conc-Sub,Negra,Masculino,2,18,< 1 vez por semana,0,Muito ruim,Muito boa,Muito boa,Regular,3,3,3,3,3,Não,Ensino médio,Fundamental 2,1,3,3,Pública,15,Sofreu Bullying,Não-Branca,2.3333333333333335,2.3333333333333335,True
+ETEC-OS,Conc-Sub,Branca,Feminino,2,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito boa,5,5,5,5,5,Sim,Ensino médio,Ensino médio,3,4,3,Pública,25,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-OS,Conc-Sub,Negra,Masculino,1,19,1-2 vezes por semana,1,Ruim,Boa,Boa,Muito boa,5,5,5,5,5,Não,Fundamental 2,Ensino médio,5,4,4,Pública,25,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETEC-OS,Conc-Sub,Negra,Masculino,1,18,2-3 vezes por semana,1,Muito ruim,Regular,Regular,Muito ruim,1,1,1,1,1,Não,Fundamental 1,Fundamental 1,4,4,4,Pública,5,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-OS,Conc-Sub,Parda,Feminino,1,19,1-2 vezes por semana,1,Regular,Boa,Boa,Muito boa,5,5,5,5,5,Sim,Ensino médio,Ensino médio,5,4,4,Pública,25,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETEC-OS,Conc-Sub,Branca,Masculino,1,18,1-2 vezes por semana,0,Boa,Muito boa,Boa,Boa,4,4,4,4,4,Sim,Graduação,Ensino médio,5,4,4,Pública,20,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETEC-OS,Conc-Sub,Parda,Feminino,2,19,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Regular,3,3,3,3,3,Não,Graduação,Graduação,5,4,4,Pública,15,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETEC-OS,Conc-Sub,Parda,Masculino,2,19,> 3 vezes por semana,0,Regular,Boa,Regular,Ruim,2,2,2,2,2,Não,Fundamental 1,Fundamental 1,3,3,3,Pública,10,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETEC-OS,Conc-Sub,Parda,Feminino,2,19,< 1 vez por semana,0,Boa,Boa,Boa,Boa,4,4,4,4,4,Sim,Ensino médio,Ensino médio,2,4,4,Pública,20,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-OS,Conc-Sub,Parda,Masculino,2,18,< 1 vez por semana,0,Muito boa,Muito boa,Muito boa,Muito boa,5,5,5,5,5,Sim,Fundamental 2,Fundamental 2,5,4,4,Pública,25,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETEC-OS,Conc-Sub,Parda,Masculino,3,18,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,4,4,4,4,4,Não,Graduação,Graduação,4,3,4,Pública,20,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Branca,Feminino,1,16,2-3 vezes por semana,2,Regular,Boa,Boa,Regular,0,2,1,0,0,Sim,Graduação,Graduação,4,4,2,Pública,3,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,2-3 vezes por semana,0,Ruim,Muito boa,Boa,Boa,0,0,1,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,1,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,> 3 vezes por semana,2,Regular,Boa,Regular,Regular,0,0,0,0,0,Não,Ensino médio,Fundamental 2,5,4,4,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,17,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,1,0,Não,Graduação,Fundamental 2,3,3,3,Pública,1,Sofreu Bullying,Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,3,3,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-BQ,Conc-Sub,Parda,Feminino,1,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 1,Graduação,3,5,5,Pública,0,Não Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Branca,Feminino,1,18,2-3 vezes por semana,0,Boa,Muito boa,Muito boa,Regular,0,0,0,0,0,Sim,Fundamental 1,Ensino médio,5,4,4,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Parda,Feminino,1,18,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Regular,0,1,0,0,0,Sim,Fundamental 1,Fundamental 1,3,4,5,Pública,1,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,16,1-2 vezes por semana,0,Boa,Muito boa,Regular,Regular,0,0,1,0,0,Sim,Ensino médio,Ensino médio,4,3,2,Pública,1,Sofreu Bullying,Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,5,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,< 1 vez por semana,1,Ruim,Boa,Boa,Muito boa,0,3,0,0,0,Não,Fundamental 2,Fundamental 2,3,4,4,Pública,3,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Negra,Feminino,1,18,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,4,0,2,Não,Fundamental 1,Fundamental 2,3,5,4,Pública,6,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,16,> 3 vezes por semana,1,Boa,Muito boa,Regular,Regular,1,0,1,1,1,Sim,Ensino médio,Ensino médio,3,4,3,Pública,4,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,5,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,16,> 3 vezes por semana,2,Ruim,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,5,4,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Negra,Feminino,1,18,> 3 vezes por semana,2,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Graduação,Ensino médio,4,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,17,2-3 vezes por semana,0,Regular,Boa,Regular,Muito boa,2,0,2,1,0,Não,Fundamental 1,Fundamental 1,1,3,3,Pública,5,Sofreu Bullying,Não-Branca,2.3333333333333335,2.3333333333333335,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,< 1 vez por semana,1,Regular,Boa,Boa,Muito boa,2,0,2,0,0,Não,Ensino médio,Ensino médio,3,3,3,Pública,4,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,1-2 vezes por semana,0,Muito boa,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Graduação,4,5,4,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,1,0,0,Sim,Fundamental 2,Ensino médio,5,3,2,Pública,1,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,< 1 vez por semana,2,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Negra,Feminino,3,18,< 1 vez por semana,0,Ruim,Boa,Boa,Muito boa,0,0,0,0,0,Não,Graduação,Ensino médio,3,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,3,18,1-2 vezes por semana,3,Ruim,Regular,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Feminino,3,17,> 3 vezes por semana,2,Muito ruim,Muito boa,Boa,Boa,0,3,0,0,0,Não,Ensino médio,Fundamental 2,4,4,4,Pública,3,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Branca,Feminino,3,18,> 3 vezes por semana,1,Muito ruim,Regular,Regular,Muito ruim,0,0,0,0,0,Sim,Graduação,Ensino médio,2,4,3,Pública,0,Não Sofreu Bullying,Branca,3.0,3.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,2,18,2-3 vezes por semana,1,Regular,Boa,Boa,Muito boa,0,0,1,1,0,Sim,Ensino médio,Ensino médio,4,5,5,Pública,2,Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,< 1 vez por semana,1,Ruim,Muito boa,Muito boa,Muito boa,2,2,4,0,2,Sim,Fundamental 1,Fundamental 1,3,4,4,Pública,10,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,2,18,< 1 vez por semana,0,Muito boa,Boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,3,18,< 1 vez por semana,0,Regular,Muito boa,Regular,Muito boa,0,0,2,0,0,Sim,Fundamental 1,Pós-graduação,3,3,3,Pública,2,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,2,17,> 3 vezes por semana,0,Regular,Regular,Muito boa,Regular,4,5,6,3,3,Não,Graduação,Ensino médio,4,4,4,Pública,21,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,1-2 vezes por semana,0,Ruim,Regular,Muito boa,Regular,0,0,0,2,0,Não,Ensino médio,Ensino médio,5,4,4,Pública,2,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,2-3 vezes por semana,0,Ruim,Boa,Muito boa,Regular,0,1,1,0,0,Sim,Ensino médio,Fundamental 2,5,3,4,Pública,2,Sofreu Bullying,Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Parda,Feminino,2,16,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,5,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,2,18,< 1 vez por semana,0,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 1,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,< 1 vez por semana,1,Ruim,Muito boa,Muito boa,Boa,0,0,2,0,0,Sim,Fundamental 2,Ensino médio,3,4,4,Pública,2,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Parda,Feminino,2,17,> 3 vezes por semana,2,Muito boa,Boa,Muito boa,Muito ruim,0,5,6,2,2,Sim,Ensino médio,Fundamental 2,1,5,4,Pública,15,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Negra,Feminino,2,18,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 1,Fundamental 2,3,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,1,0,Não,Ensino médio,Ensino médio,4,4,4,Pública,1,Sofreu Bullying,Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Parda,Feminino,2,17,> 3 vezes por semana,2,Ruim,Boa,Boa,Ruim,2,2,2,1,0,Não,Fundamental 1,Ensino médio,3,5,5,Pública,7,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Ruim,Regular,Boa,Muito ruim,0,0,4,0,0,Sim,Ensino médio,Ensino médio,4,3,4,Pública,4,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,18,> 3 vezes por semana,0,Muito ruim,Boa,Boa,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,18,1-2 vezes por semana,2,Ruim,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,3,4,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Parda,Feminino,2,17,1-2 vezes por semana,1,Ruim,Boa,Boa,Ruim,0,0,0,0,0,Não,Ensino médio,Fundamental 2,5,5,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,False
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,16,1-2 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Fundamental 2,Fundamental 1,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,1,0,1,3,0,Não,Fundamental 1,Fundamental 2,3,4,2,Pública,5,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,1,Ruim,Regular,Boa,Boa,2,0,4,3,0,Não,Ensino médio,Fundamental 2,3,4,4,Pública,9,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,> 3 vezes por semana,0,Boa,Muito boa,Boa,Boa,1,0,2,3,0,Sim,Ensino médio,Ensino médio,5,4,5,Pública,6,Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,0,Regular,Boa,Regular,Regular,0,0,2,1,0,Não,Ensino médio,Ensino médio,4,4,3,Pública,3,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,17,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,4,0,0,0,Não,Ensino médio,Ensino médio,4,3,3,Pública,4,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,1,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,0,2,0,Sim,Fundamental 2,Fundamental 2,4,3,4,Pública,2,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,1,17,2-3 vezes por semana,2,Muito boa,Boa,Muito boa,Regular,4,4,5,4,0,Não,Fundamental 1,Fundamental 1,2,3,3,Pública,17,Sofreu Bullying,Não-Branca,2.6666666666666665,2.6666666666666665,True
+ETEC-BQ,Conc-Sub,Parda,Feminino,1,18,> 3 vezes por semana,2,Muito ruim,Muito boa,Boa,Ruim,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,16,> 3 vezes por semana,0,Regular,Boa,Boa,Regular,0,1,5,3,0,Sim,Ensino médio,Ensino médio,5,4,3,Pública,9,Sofreu Bullying,Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,3,18,> 3 vezes por semana,0,Regular,Regular,Regular,Muito ruim,0,0,4,1,1,Sim,Fundamental 1,Fundamental 1,3,3,3,Pública,6,Sofreu Bullying,Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,3,18,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Pós-graduação,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,5,2,0,2,Sim,Ensino médio,Graduação,4,3,3,Pública,9,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,4,18,> 3 vezes por semana,0,Ruim,Muito boa,Muito boa,Boa,0,5,1,0,2,Sim,Ensino médio,Fundamental 2,5,4,4,Pública,8,Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,4,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito boa,4,6,6,4,1,Não,Ensino médio,Fundamental 1,4,4,4,Pública,21,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,> 3 vezes por semana,2,Ruim,Regular,Boa,Ruim,0,1,2,0,0,Não,Ensino médio,Graduação,4,3,3,Pública,3,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,2-3 vezes por semana,1,Ruim,Regular,Boa,Regular,1,6,6,2,3,Sim,Ensino médio,Graduação,4,3,4,Pública,18,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,1-2 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,3,0,0,Não,Ensino médio,Fundamental 2,3,4,4,Pública,3,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,1-2 vezes por semana,1,Muito ruim,Boa,Boa,Muito ruim,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,1,1,Pública,0,Não Sofreu Bullying,Branca,1.6666666666666667,1.6666666666666667,False
+ETEC-BQ,Conc-Sub,Negra,Masculino,4,18,1-2 vezes por semana,1,Boa,Boa,Muito boa,Boa,0,0,0,0,0,Não,Fundamental 1,Fundamental 1,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Boa,0,0,4,0,0,Sim,Fundamental 2,Fundamental 1,3,3,3,Pública,4,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,> 3 vezes por semana,0,Regular,Boa,Boa,Regular,0,0,2,0,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,2,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,1,Ruim,Boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,3,4,4,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Fundamental 2,Graduação,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,17,> 3 vezes por semana,1,Boa,Boa,Regular,Regular,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,3,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,16,2-3 vezes por semana,0,Boa,Muito boa,Regular,Boa,1,0,3,0,1,Sim,Ensino médio,Ensino médio,3,4,3,Pública,5,Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,> 3 vezes por semana,1,Ruim,Boa,Boa,Boa,0,0,1,1,0,Não,Ensino médio,Fundamental 1,2,3,3,Pública,2,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Negra,Masculino,2,17,2-3 vezes por semana,0,Ruim,Boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Graduação,4,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,17,> 3 vezes por semana,2,Ruim,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Ensino médio,Fundamental 1,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Muito boa,Boa,Boa,Muito boa,3,3,6,5,0,Sim,Pós-graduação,Graduação,3,3,3,Pública,17,Sofreu Bullying,Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,< 1 vez por semana,0,Ruim,Boa,Boa,Ruim,1,0,3,0,0,Sim,Ensino médio,Graduação,3,4,4,Pública,4,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,17,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Graduação,3,3,3,Pública,0,Não Sofreu Bullying,Branca,3.0,3.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,2,17,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,1,0,1,0,Não,Ensino médio,Ensino médio,3,2,3,Pública,2,Sofreu Bullying,Não-Branca,2.6666666666666665,2.6666666666666665,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,2,18,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Ruim,2,2,5,0,0,Sim,Ensino médio,Ensino médio,4,3,4,Pública,9,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Muito boa,2,0,4,0,0,Sim,Graduação,Graduação,3,4,3,Pública,6,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,1,Muito ruim,Boa,Regular,Boa,0,0,5,4,0,Não,Ensino médio,Ensino médio,2,3,3,Pública,9,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,17,< 1 vez por semana,1,Regular,Boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Graduação,4,3,4,Pública,0,Não Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,< 1 vez por semana,0,Ruim,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,17,2-3 vezes por semana,0,Regular,Regular,Regular,Boa,0,0,5,2,2,Sim,Graduação,Ensino médio,2,3,3,Pública,9,Sofreu Bullying,Branca,2.6666666666666665,2.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,17,< 1 vez por semana,1,Regular,Muito boa,Boa,Boa,0,0,2,2,0,Sim,Pós-graduação,Graduação,4,3,3,Pública,4,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Parda,Feminino,1,19,2-3 vezes por semana,2,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,5,5,5,Pública,0,Não Sofreu Bullying,Não-Branca,5.0,5.0,False
+ETEC-BQ,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,1,Regular,Regular,Boa,Regular,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,4,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,1,19,1-2 vezes por semana,0,Ruim,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,5,4,3,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,1,Boa,Boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 2,Fundamental 1,5,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,False
+ETEC-BQ,Conc-Sub,Negra,Feminino,3,19,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Fundamental 2,Fundamental 1,4,4,4,Pública,1,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,2,19,> 3 vezes por semana,0,Regular,Boa,Regular,Boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 1,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Negra,Feminino,2,19,< 1 vez por semana,0,Ruim,Boa,Boa,Boa,0,0,2,0,0,Não,Fundamental 2,Fundamental 2,4,4,4,Pública,2,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,1-2 vezes por semana,0,Muito boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Graduação,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,4,19,< 1 vez por semana,0,Ruim,Muito boa,Regular,Regular,0,0,4,0,0,Não,Ensino médio,Ensino médio,3,5,3,Pública,4,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,1-2 vezes por semana,1,Ruim,Regular,Boa,Boa,3,0,3,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,6,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Negra,Masculino,4,19,2-3 vezes por semana,0,Regular,Muito boa,Muito boa,Regular,0,0,0,2,2,Não,Graduação,Graduação,4,4,4,Pública,4,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Ruim,0,1,1,4,1,Sim,Ensino médio,Graduação,4,3,3,Pública,7,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,2,19,2-3 vezes por semana,0,Regular,Boa,Muito boa,Boa,0,2,2,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,4,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-BQ,Conc-Sub,Parda,Masculino,4,19,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Graduação,4,4,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-BQ,Conc-Sub,Parda,Masculino,4,19,< 1 vez por semana,0,Ruim,Boa,Boa,Boa,2,0,2,0,0,Não,Fundamental 2,Ensino médio,3,3,3,Pública,4,Sofreu Bullying,Não-Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,2-3 vezes por semana,2,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,4,5,5,Pública,0,Não Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,3,19,< 1 vez por semana,0,Ruim,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Fundamental 2,Ensino médio,5,5,5,Pública,0,Não Sofreu Bullying,Branca,5.0,5.0,False
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,> 3 vezes por semana,3,Muito ruim,Boa,Muito boa,Boa,0,4,6,0,2,Sim,Fundamental 1,Fundamental 2,3,5,5,Pública,12,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,> 3 vezes por semana,3,Muito ruim,Boa,Muito boa,Muito ruim,2,2,6,0,0,Não,Ensino médio,Fundamental 2,3,2,1,Pública,10,Sofreu Bullying,Branca,2.0,2.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,3,19,2-3 vezes por semana,1,Regular,Boa,Boa,Ruim,0,0,3,0,0,Sim,Ensino médio,Fundamental 1,3,3,3,Pública,3,Sofreu Bullying,Branca,3.0,3.0,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,19,< 1 vez por semana,0,Regular,Muito boa,Boa,Boa,1,0,1,2,0,Não,Ensino médio,Fundamental 1,5,2,3,Pública,4,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-BQ,Conc-Sub,Branca,Masculino,1,19,< 1 vez por semana,2,Regular,Muito boa,Boa,Regular,0,2,3,4,0,Não,Graduação,Graduação,4,4,3,Pública,9,Sofreu Bullying,Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-HM,Conc-Sub,Branca,Masculino,2,18,2-3 vezes por semana,0,Boa,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,5,4,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETEC-HM,Conc-Sub,Parda,Feminino,2,19,< 1 vez por semana,0,Regular,Boa,Boa,Muito ruim,0,0,2,0,0,Sim,Graduação,Fundamental 2,2,5,4,Pública,2,Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,True
+ETEC-HM,Conc-Sub,Branca,Masculino,2,19,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,0,0,1,Não,Ensino médio,Ensino médio,5,5,5,Pública,1,Sofreu Bullying,Branca,5.0,5.0,True
+ETEC-HM,Conc-Sub,Branca,Feminino,2,18,< 1 vez por semana,1,Regular,Boa,Boa,Regular,0,2,0,0,0,Não,Ensino médio,Fundamental 2,4,3,3,Pública,2,Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,True
+ETEC-HM,Conc-Sub,Branca,Feminino,2,18,> 3 vezes por semana,3,Muito ruim,Boa,Muito boa,Ruim,0,0,1,0,0,Não,Ensino médio,Ensino médio,5,4,5,Pública,1,Sofreu Bullying,Branca,4.666666666666667,4.666666666666667,True
+ETEC-HM,Conc-Sub,Branca,Feminino,1,18,2-3 vezes por semana,2,Regular,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-HM,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,1,Regular,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,5,5,5,Pública,0,Não Sofreu Bullying,Não-Branca,5.0,5.0,False
+ETEC-HM,Conc-Sub,Parda,Feminino,1,19,2-3 vezes por semana,3,Muito ruim,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Fundamental 2,Fundamental 2,5,5,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,False
+ETEC-HM,Conc-Sub,Negra,Feminino,1,19,> 3 vezes por semana,2,Regular,Muito boa,Muito boa,Regular,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,5,5,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,False
+ETEC-HM,Conc-Sub,Negra,Feminino,1,19,> 3 vezes por semana,2,Regular,Muito boa,Muito boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,5,5,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,False
+ETEC-HM,Conc-Sub,Parda,Masculino,3,17,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,3,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETEC-HM,Conc-Sub,Branca,Masculino,3,16,> 3 vezes por semana,0,Regular,Muito boa,Boa,Boa,1,0,1,0,0,Sim,Fundamental 2,Fundamental 1,4,5,4,Pública,2,Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,True
+ETEC-HM,Conc-Sub,Negra,Feminino,3,18,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 1,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-HM,Conc-Sub,Negra,Feminino,3,19,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Fundamental 2,Fundamental 1,3,4,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-HM,Conc-Sub,Parda,Feminino,3,19,> 3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,2,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,2.6666666666666665,2.6666666666666665,False
+ETEC-HM,Conc-Sub,Parda,Feminino,2,17,> 3 vezes por semana,2,Muito ruim,Muito boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 2,Fundamental 2,2,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-HM,Conc-Sub,Parda,Feminino,2,18,1-2 vezes por semana,0,Muito boa,Boa,Muito boa,Regular,0,2,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,2,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-HM,Conc-Sub,Negra,Feminino,2,18,1-2 vezes por semana,0,Boa,Boa,Muito boa,Regular,0,4,0,0,0,Sim,Fundamental 1,Fundamental 2,4,4,4,Pública,4,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-HM,Conc-Sub,Parda,Feminino,2,18,1-2 vezes por semana,1,Muito ruim,Boa,Muito boa,Boa,0,1,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,1,Sofreu Bullying,Não-Branca,4.0,4.0,True
+ETEC-HM,Conc-Sub,Parda,Feminino,2,19,> 3 vezes por semana,1,Regular,Boa,Muito boa,Ruim,0,0,1,0,0,Não,Ensino médio,Ensino médio,5,5,4,Pública,1,Sofreu Bullying,Não-Branca,4.666666666666667,4.666666666666667,True
+ETEC-HM,Conc-Sub,Branca,Feminino,2,18,2-3 vezes por semana,0,Muito boa,Ruim,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-HM,Conc-Sub,Parda,Feminino,3,19,> 3 vezes por semana,0,Regular,Boa,Muito boa,Muito boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,3,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETEC-HM,Conc-Sub,Branca,Feminino,3,18,< 1 vez por semana,1,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Não,Ensino médio,Fundamental 2,3,4,3,Pública,0,Não Sofreu Bullying,Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-HM,Conc-Sub,Negra,Masculino,3,18,> 3 vezes por semana,1,Muito ruim,Boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 1,Fundamental 1,4,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.3333333333333335,3.3333333333333335,False
+ETEC-HM,Conc-Sub,Parda,Masculino,3,19,< 1 vez por semana,1,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Fundamental 1,3,3,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.0,3.0,False
+ETEC-HM,Conc-Sub,Branca,Feminino,3,18,> 3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,5,4,Pública,0,Não Sofreu Bullying,Branca,4.333333333333333,4.333333333333333,False
+ETEC-HM,Conc-Sub,Branca,Feminino,3,19,< 1 vez por semana,1,Muito boa,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,0,Não Sofreu Bullying,Branca,3.0,3.0,False
+ETEC-HM,Conc-Sub,Parda,Feminino,3,19,> 3 vezes por semana,0,Boa,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,5,5,5,Pública,0,Não Sofreu Bullying,Não-Branca,5.0,5.0,False
+ETEC-HM,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,2,Muito ruim,Regular,Boa,Ruim,0,0,0,0,0,Sim,Fundamental 1,Fundamental 2,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False
+ETEC-HM,Conc-Sub,Parda,Feminino,1,18,< 1 vez por semana,2,Regular,Muito boa,Boa,Ruim,0,0,0,0,0,Sim,Ensino médio,Fundamental 1,5,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.333333333333333,4.333333333333333,False
+ETEC-HM,Conc-Sub,Parda,Masculino,1,19,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,4,3,Pública,0,Não Sofreu Bullying,Não-Branca,3.6666666666666665,3.6666666666666665,False
+ETEC-HM,Conc-Sub,Branca,Masculino,1,18,2-3 vezes por semana,2,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Ensino médio,Fundamental 1,3,4,5,Pública,0,Não Sofreu Bullying,Branca,4.0,4.0,False
+ETEC-HM,Conc-Sub,Negra,Masculino,1,19,2-3 vezes por semana,0,Muito ruim,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,0,Não Sofreu Bullying,Não-Branca,4.0,4.0,False

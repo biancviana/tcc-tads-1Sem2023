@@ -1,0 +1,490 @@
+,Escola,Curso,Cor ,Genero,Ano,Idade,Demora dormir,Sonhos ruins,Qualidade do sono,Relação com Amigos,Relação com Professores,Auto-Imag,Fisico,Social,Verbal,Material,Virtual,Mora com pais,Escolari-mãe,Escolari-pai,Nota-exatas,Nota-humanas,Nota-biológicas,Tipo escola,Nota-media
+0,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,0,0,1,0,Não,Ensino médio,Pós-graduação,4,2,3,Pública,3.0
+1,ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,2,Ruim,Boa,Regular,Boa,0,1,0,0,0,Sim,Ensino médio,Fundamental 1,3,4,3,Pública,3.3333333333333335
+2,ETIM,Integrado,Branca,Feminino,1,16,> 3 vezes por semana,1,Ruim,Boa,Boa,Ruim,0,1,2,0,2,Sim,Graduação,Graduação,3,5,4,Pública,4.0
+3,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Muito ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Graduação,4,4,4,Pública,4.0
+4,ETIM,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Boa,Boa,Boa,Boa,1,1,2,0,1,Sim,Graduação,Graduação,4,4,3,Pública,3.6666666666666665
+5,ETIM,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,2,Muito ruim,Muito boa,Muito boa,Boa,0,5,1,0,2,Sim,Graduação,Pós-graduação,2,4,5,Pública,3.6666666666666665
+6,ETIM,Integrado,Parda,Masculino,1,16,> 3 vezes por semana,1,Ruim,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Graduação,3,3,3,Pública,3.0
+7,ETIM,Integrado,Parda,Feminino,1,16,2-3 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,1,1,0,0,Não,Graduação,Ensino médio,2,4,3,Pública,3.0
+8,ETIM,Integrado,Parda,Feminino,1,16,1-2 vezes por semana,0,Muito ruim,Muito boa,Boa,Regular,1,2,0,0,4,Sim,Ensino médio,Ensino médio,4,3,3,Pública,3.3333333333333335
+9,ETIM,Integrado,Parda,Masculino,1,16,1-2 vezes por semana,0,Ruim,Boa,Regular,Boa,0,0,0,0,0,Sim,Graduação,Ensino médio,3,3,3,Pública,3.0
+10,ETIM,Integrado,Parda,Feminino,1,15,1-2 vezes por semana,0,Regular,Boa,Boa,Regular,0,0,0,2,0,Sim,Ensino médio,Ensino médio,2,4,4,Pública,3.3333333333333335
+11,ETIM,Integrado,Parda,Masculino,2,16,< 1 vez por semana,1,Boa,Muito boa,Boa,Muito boa,2,0,6,6,2,Sim,Graduação,Pós-graduação,3,4,3,Pública,3.3333333333333335
+12,ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,1,Muito ruim,Boa,Regular,Boa,0,2,1,0,4,Sim,Ensino médio,Fundamental 2,1,3,3,Pública,2.3333333333333335
+13,ETIM,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,2,Regular,Muito boa,Muito boa,Muito boa,0,2,0,2,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+14,ETIM,Integrado,Parda,Feminino,2,16,< 1 vez por semana,2,Muito ruim,Ruim,Regular,Muito ruim,0,3,0,0,0,Não,Pós-graduação,Pós-graduação,5,4,3,Pública,4.0
+15,ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Muito ruim,Muito boa,Regular,Boa,0,0,4,2,0,Sim,Ensino médio,Graduação,3,4,3,Pública,3.3333333333333335
+16,ETIM,Integrado,Branca,Feminino,2,17,< 1 vez por semana,0,Regular,Muito boa,Boa,Regular,0,1,3,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+17,ETIM,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,2,Regular,Boa,Regular,Regular,0,3,2,2,0,Sim,Fundamental ,Fundamental 1,5,5,5,Pública,5.0
+18,ETIM,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Boa,Boa,Boa,Regular,0,0,0,0,0,Não,Graduação,Ensino médio,4,3,4,Pública,3.6666666666666665
+19,ETIM,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,2,Regular,Boa,Boa,Muito boa,0,2,1,1,2,Sim,Ensino médio,Ensino médio,5,4,3,Pública,4.0
+20,ETIM,Integrado,Branca,Feminino,2,17,< 1 vez por semana,2,Muito ruim,Boa,Boa,Regular,1,4,0,0,1,Sim,Graduação,Graduação,4,4,4,Pública,4.0
+21,ETIM,Integrado,Negra,Masculino,2,16,> 3 vezes por semana,1,Ruim,Muito boa,Regular,Muito boa,2,2,4,5,0,Não,Pós-graduação,Graduação,3,4,2,Pública,3.0
+22,ETIM,Integrado,Parda,Masculino,3,17,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,1,0,2,0,Sim,Ensino médio,Ensino médio,5,4,5,Pública,4.666666666666667
+23,ETIM,Integrado,Parda,Masculino,3,17,2-3 vezes por semana,0,Muito ruim,Boa,Regular,Boa,0,2,2,0,0,Sim,Graduação,Fundamental 2,2,4,3,Pública,3.0
+24,ETIM,Integrado,Parda,Feminino,3,17,> 3 vezes por semana,2,Muito ruim,Regular,Regular,Ruim,0,4,3,0,0,Sim,Fundamental 2,Ensino médio,3,4,3,Pública,3.3333333333333335
+25,ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Boa,Boa,Boa,Regular,0,1,0,1,0,Sim,Graduação,Graduação,4,3,3,Pública,3.3333333333333335
+26,ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,1,Boa,Muito boa,Boa,Regular,0,2,1,0,0,Não,Graduação,Ensino médio,4,4,4,Pública,4.0
+27,ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,1,Ruim,Muito ruim,Ruim,Ruim,0,6,6,0,0,Não,Pós-graduação,Ensino médio,2,3,3,Pública,2.6666666666666665
+28,ETIM,Integrado,Negra,Feminino,3,18,> 3 vezes por semana,3,Regular,Muito boa,Boa,Muito ruim,0,0,2,0,0,Não,Ensino médio,Ensino médio,3,4,5,Pública,4.0
+29,ETIM,Integrado,Branca,Masculino,3,18,2-3 vezes por semana,0,Ruim,Boa,Muito boa,Muito ruim,0,3,4,0,3,Sim,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+30,ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Ruim,Boa,Boa,Regular,0,1,0,0,0,Sim,Fundamental 2,Ensino médio,3,4,3,Pública,3.3333333333333335
+31,ETIM,Integrado,Parda,Feminino,3,18,2-3 vezes por semana,2,Ruim,Boa,Boa,Boa,0,5,0,0,0,Sim,Graduação,Ensino médio,3,5,4,Pública,4.0
+32,ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,0,Boa,Boa,Boa,Muito boa,0,2,1,0,1,Sim,Graduação,Ensino médio,3,4,4,Pública,3.6666666666666665
+33,ETIM,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Regular,Regular,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,5,3,3,Pública,3.6666666666666665
+34,ETIM,Integrado,Parda,Feminino,1,15,1-2 vezes por semana,1,Boa,Regular,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,2,4,3,Pública,3.0
+35,ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,2,1,0,0,Sim,Pós-graduação,Graduação,4,4,4,Pública,4.0
+36,ETIM,Integrado,Branca,Feminino,1,15,< 1 vez por semana,1,Regular,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Graduação,Ensino médio,4,5,3,Pública,4.0
+37,ETIM,Integrado,Parda,Masculino,1,15,< 1 vez por semana,0,Boa,Boa,Muito boa,Muito ruim,0,1,0,1,0,Sim,Ensino médio,Ensino médio,1,5,4,Pública,3.3333333333333335
+38,ETIM,Integrado,Branca,Feminino,1,15,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,5,4,5,Pública,4.666666666666667
+39,ETIM,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,1,Regular,Ruim,Regular,Muito boa,2,4,2,0,1,Sim,Graduação,Graduação,3,4,3,Pública,3.3333333333333335
+40,ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,1,5,1,0,Não,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+41,ETIM,Integrado,Parda,Feminino,3,17,2-3 vezes por semana,3,Regular,Muito boa,Boa,Regular,1,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+42,ETIM,Integrado,Branca,Masculino,3,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,1,0,1,0,0,Sim,Ensino médio,Graduação,3,4,4,Pública,3.6666666666666665
+43,ETIM,Integrado,Parda,Masculino,3,17,> 3 vezes por semana,3,Ruim,Muito boa,Regular,Regular,0,2,3,2,0,Sim,Ensino médio,Fundamental 1,4,3,5,Pública,4.0
+44,ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Muito ruim,Regular,Regular,Regular,0,0,4,4,1,Sim,Ensino médio,Ensino médio,2,2,4,Pública,2.6666666666666665
+45,ETIM,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,2,Ruim,Boa,Regular,Muito ruim,0,5,6,3,3,Sim,Ensino médio,Fundamental 2,3,3,3,Pública,3.0
+46,ETIM,Integrado,Parda,Masculino,3,17,2-3 vezes por semana,1,Regular,Muito boa,Boa,Ruim,1,0,2,0,0,Sim,Ensino médio,Pós-graduação,3,3,3,Pública,3.0
+47,ETIM,Integrado,Parda,Masculino,3,18,< 1 vez por semana,0,Boa,Muito boa,Boa,Boa,0,0,0,0,0,Não,Ensino médio,Fundamental 1,3,4,3,Pública,3.3333333333333335
+48,ETIM,Integrado,Branca,Masculino,3,17,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,2,0,4,0,0,Sim,Graduação,Fundamental 2,3,4,3,Pública,3.3333333333333335
+49,ETIM,Integrado,Branca,Masculino,3,17,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,3,3,5,2,0,Não,Fundamental 1,Fundamental 1,2,4,3,Pública,3.0
+50,ETIM,Integrado,Branca,Masculino,3,16,< 1 vez por semana,2,Boa,Muito boa,Regular,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+51,ETIM,Integrado,Branca,Masculino,3,18,< 1 vez por semana,0,Muito ruim,Boa,Boa,Regular,0,1,1,0,0,Sim,Pós-graduação,Pós-graduação,5,3,4,Pública,4.0
+52,ETIM,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,3,Regular,Muito boa,Regular,Ruim,1,0,2,2,0,Sim,Fundamental 2,Ensino médio,3,4,4,Pública,3.6666666666666665
+53,ETIM,Integrado,Parda,Masculino,2,15,> 3 vezes por semana,0,Ruim,Boa,Boa,Regular,0,0,2,0,0,Sim,Fundamental 1,Fundamental 1,3,2,4,Pública,3.0
+54,ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,0,Ruim,Ruim,Ruim,Ruim,1,2,3,1,1,Sim,Ensino médio,Graduação,3,3,3,Pública,3.0
+55,ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Boa,4,2,3,2,0,Sim,Pós-graduação,Ensino médio,4,3,4,Pública,3.6666666666666665
+56,ETIM,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,1,Boa,Boa,Boa,Boa,2,2,4,2,1,Sim,Ensino médio,Graduação,5,5,5,Pública,5.0
+57,ETIM,Integrado,Parda,Masculino,2,18,< 1 vez por semana,1,Boa,Boa,Regular,Ruim,1,2,3,2,1,Não,Ensino médio,Ensino médio,3,4,3,Pública,3.3333333333333335
+58,ETIM,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Regular,Boa,Boa,Boa,2,0,6,3,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+59,ETIM,Integrado,Branca,Masculino,2,17,< 1 vez por semana,0,Regular,Boa,Boa,Boa,4,2,4,0,0,Sim,Ensino médio,Ensino médio,5,3,4,Pública,4.0
+60,ETIM,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,1,Regular,Muito boa,Regular,Regular,4,2,6,5,0,Sim,Ensino médio,Ensino médio,2,3,3,Pública,2.6666666666666665
+61,ETIM,Integrado,Branca,Masculino,2,17,< 1 vez por semana,0,Boa,Boa,Boa,Boa,0,0,5,5,0,Não,Graduação,Graduação,4,3,4,Pública,3.6666666666666665
+62,ETIM,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,1,Muito boa,Regular,Muito boa,Ruim,4,0,2,1,1,Sim,Graduação,Graduação,5,3,4,Pública,4.0
+63,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,1,0,3,1,0,Sim,Graduação,Graduação,5,4,4,Pública,4.333333333333333
+64,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,2,Ruim,Muito boa,Muito boa,Regular,0,5,2,2,0,Não,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+65,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,3,Muito ruim,Muito boa,Boa,Regular,2,0,2,2,0,Não,Pós-graduação,Graduação,4,5,5,Pública,4.666666666666667
+66,ETIM,Integrado,Parda,Masculino,1,15,> 3 vezes por semana,2,Regular,Boa,Boa,Ruim,1,3,3,3,0,Sim,Ensino médio,Graduação,3,4,3,Pública,3.3333333333333335
+67,ETIM,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,0,Regular,Boa,Boa,Ruim,1,1,6,0,0,Sim,Ensino médio,Ensino médio,3,5,5,Pública,4.333333333333333
+68,ETIM,Integrado,Branca,Feminino,1,17,2-3 vezes por semana,2,Regular,Boa,Boa,Regular,1,3,0,2,0,Sim,Ensino médio,Ensino médio,3,5,4,Pública,4.0
+69,ETIM,Integrado,Branca,Feminino,1,16,1-2 vezes por semana,2,Regular,Boa,Boa,Ruim,0,1,0,0,0,Sim,Fundamental 2,Graduação,4,4,3,Pública,3.6666666666666665
+70,ETIM,Integrado,Branca,Masculino,1,16,1-2 vezes por semana,1,Boa,Muito boa,Muito boa,Regular,0,1,1,0,0,Não,Ensino médio,Ensino médio,5,3,3,Pública,3.6666666666666665
+71,ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Boa,Boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,4,3,3,Pública,3.3333333333333335
+72,ETIM,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,2,Boa,Muito boa,Muito boa,Ruim,1,2,4,0,0,Não,Fundamental 1,Ensino médio,3,4,4,Pública,3.6666666666666665
+73,ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,1,Regular,Boa,Boa,Regular,3,2,6,3,0,Não,Graduação,Graduação,4,5,5,Pública,4.666666666666667
+74,ETIM,Integrado,Branca,Masculino,3,17,< 1 vez por semana,0,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,3,4,Pública,3.6666666666666665
+75,ETIM,Integrado,Branca,Feminino,3,17,< 1 vez por semana,2,Muito ruim,Regular,Boa,Muito ruim,0,3,5,4,2,Não,Ensino médio,Graduação,3,3,4,Pública,3.3333333333333335
+76,ETIM,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,5,5,Pública,4.666666666666667
+77,ETIM,Integrado,Parda,Feminino,3,17,> 3 vezes por semana,1,Ruim,Boa,Boa,Regular,0,0,2,1,0,Não,Ensino médio,Ensino médio,4,4,5,Pública,4.333333333333333
+78,ETIM,Integrado,Negra,Feminino,3,18,< 1 vez por semana,0,Boa,Boa,Boa,Muito boa,0,1,1,0,0,Sim,Fundamental 2,Fundamental 1,3,4,3,Pública,3.3333333333333335
+79,ETIM,Integrado,Negra,Feminino,3,18,2-3 vezes por semana,0,Regular,Regular,Boa,Regular,0,4,5,0,1,Não,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+80,ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,1,Boa,Muito boa,Regular,Ruim,0,0,0,1,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+81,ETIM,Integrado,Negra,Masculino,3,19,2-3 vezes por semana,2,Ruim,Regular,Boa,Ruim,2,6,5,4,2,Sim,Ensino médio,Ensino médio,3,3,4,Pública,3.3333333333333335
+82,ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,1,Boa,Regular,Boa,Regular,1,4,4,0,1,Sim,Ensino médio,Graduação,4,5,5,Pública,4.666666666666667
+83,ETIM,Integrado,Branca,Masculino,3,18,< 1 vez por semana,0,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,4,5,Pública,4.0
+84,ETIM,Integrado,Parda,Feminino,3,18,> 3 vezes por semana,2,Regular,Boa,Boa,Regular,3,3,4,3,0,Não,Pós-graduação,Ensino médio,5,4,4,Pública,4.333333333333333
+85,ETIM,Integrado,Branca,Masculino,2,18,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,1,1,0,Não,Ensino médio,Ensino médio,2,4,2,Pública,2.6666666666666665
+86,ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Ruim,2,3,4,0,0,Não,Ensino médio,Fundamental 2,2,3,3,Pública,2.6666666666666665
+87,ETIM,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,5,Pública,4.333333333333333
+88,ETIM,Integrado,Parda,Masculino,3,17,2-3 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito ruim,2,2,2,0,0,Não,Pós-graduação,Ensino médio,4,3,3,Pública,3.3333333333333335
+89,ETIM,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,3,Muito ruim,Ruim,Muito boa,Muito ruim,1,5,4,0,4,Não,Fundamental 1,Ensino médio,1,2,2,Pública,1.6666666666666667
+90,ETIM,Integrado,Branca,Masculino,3,18,< 1 vez por semana,1,Boa,Boa,Boa,Boa,0,0,0,0,0,Sim,Graduação,Graduação,4,4,4,Pública,4.0
+91,ETIM,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,2,Regular,Regular,Boa,Muito ruim,1,6,6,2,3,Sim,Pós-graduação,Pós-graduação,4,5,5,Pública,4.666666666666667
+92,ETIM,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,3,1,0,Não,Ensino médio,Ensino médio,5,4,5,Pública,4.666666666666667
+93,ETIM,Integrado,Branca,Masculino,3,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,1,3,2,0,Não,Pós-graduação,Graduação,4,4,4,Pública,4.0
+94,ETIM,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,0,Regular,Boa,Muito boa,Muito boa,0,0,0,0,0,Não,Graduação,Graduação,3,3,3,Pública,3.0
+95,ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,2,Ruim,Muito boa,Boa,Ruim,0,1,1,1,1,Não,Graduação,Graduação,3,4,4,Pública,3.6666666666666665
+96,ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,0,Muito ruim,Boa,Boa,Boa,0,0,0,0,0,Não,Fundamental 1,Fundamental 2,3,3,4,Pública,3.3333333333333335
+97,ETIM,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,5,5,Pública,4.666666666666667
+98,ETIM,Integrado,Branca,Masculino,1,15,1-2 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,1,2,0,0,Não,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+99,ETIM,Integrado,Branca,Masculino,1,15,1-2 vezes por semana,0,Boa,Muito boa,Regular,Muito boa,0,0,0,2,0,Sim,Ensino médio,Fundamental 2,5,4,4,Pública,4.333333333333333
+100,ETIM,Integrado,Parda,Masculino,1,16,> 3 vezes por semana,1,Boa,Boa,Boa,Ruim,0,0,0,1,0,Sim,Graduação,Graduação,4,4,3,Pública,3.6666666666666665
+101,ETIM,Integrado,Branca,Masculino,1,16,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Muito boa,3,1,2,2,1,Não,Pós-graduação,Graduação,4,4,5,Pública,4.333333333333333
+102,ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,1,Regular,Boa,Boa,Boa,2,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+103,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Muito boa,3,0,2,0,0,Não,Graduação,Graduação,3,3,3,Pública,3.0
+104,ETIM,Integrado,Parda,Masculino,1,16,1-2 vezes por semana,0,Ruim,Ruim,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Pós-graduação,4,3,2,Pública,3.0
+105,ETIM,Integrado,Parda,Masculino,1,15,> 3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,5,3,3,Pública,3.6666666666666665
+106,ETIM,Integrado,Branca,Masculino,1,16,1-2 vezes por semana,0,Regular,Boa,Regular,Boa,0,0,2,0,0,Não,Graduação,Ensino médio,5,3,4,Pública,4.0
+107,ETIM,Integrado,Branca,Masculino,1,16,1-2 vezes por semana,0,Regular,Regular,Boa,Regular,4,0,6,3,1,Sim,Ensino médio,Graduação,3,3,3,Pública,3.0
+108,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,1,0,Sim,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+109,ETIM,Integrado,Branca,Masculino,1,16,> 3 vezes por semana,1,Ruim,Boa,Regular,Regular,2,2,3,0,0,Não,Graduação,Ensino médio,2,2,2,Pública,2.0
+110,ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,1,Regular,Regular,Regular,Boa,1,0,2,5,1,Não,Ensino médio,Ensino médio,3,4,5,Pública,4.0
+111,ETIM,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,3,Ruim,Muito boa,Regular,Muito boa,4,3,6,1,0,Não,Graduação,Ensino médio,3,5,4,Pública,4.0
+112,ETIM,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Regular,Muito boa,Regular,Regular,0,0,0,0,0,Não,Ensino médio,Graduação,5,4,4,Pública,4.333333333333333
+113,ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,0,Muito ruim,Boa,Boa,Regular,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,5,3,5,Pública,4.333333333333333
+114,ETIM,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,2,Ruim,Boa,Boa,Regular,0,2,3,1,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+115,ETIM,Integrado,Parda,Masculino,2,17,< 1 vez por semana,0,Regular,Muito boa,Ruim,Muito boa,0,2,4,2,0,Sim,Fundamental 2,Fundamental 2,5,5,5,Pública,5.0
+116,ETIM,Integrado,Negra,Masculino,2,16,2-3 vezes por semana,2,Ruim,Muito boa,Boa,Boa,5,0,6,0,4,Sim,Pós-graduação,Ensino médio,4,4,3,Pública,3.6666666666666665
+117,ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,2,Regular,Regular,Boa,Regular,4,2,6,4,0,Não,Graduação,Fundamental 2,3,4,4,Pública,3.6666666666666665
+118,ETIM,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Muito boa,1,0,5,2,1,Sim,Graduação,Ensino médio,4,4,3,Pública,3.6666666666666665
+119,ETIM,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Ruim,Muito boa,Boa,Boa,0,1,6,0,1,Sim,Pós-graduação,Pós-graduação,4,4,4,Pública,4.0
+120,ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,2,Ruim,Boa,Regular,Regular,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,4,Pública,4.0
+121,ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,0,Regular,Boa,Boa,Muito boa,0,1,2,2,0,Sim,Graduação,Graduação,5,5,5,Pública,5.0
+122,ETIM,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,2,Regular,Boa,Boa,Muito boa,0,2,0,0,0,Não,Pós-graduação,Ensino médio,3,4,5,Pública,4.0
+123,ETIM,Integrado,Parda,Feminino,3,18,< 1 vez por semana,0,Muito boa,Muito boa,Regular,Boa,5,2,6,2,2,Sim,Graduação,Pós-graduação,2,5,3,Pública,3.3333333333333335
+124,ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,2,Ruim,Muito boa,Muito boa,Muito boa,0,3,0,4,1,Sim,Graduação,Graduação,4,5,5,Pública,4.666666666666667
+125,ETIM,Integrado,Parda,Feminino,3,19,> 3 vezes por semana,2,Ruim,Muito boa,Boa,Regular,1,2,2,1,0,Não,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+126,ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,1,Boa,Boa,Boa,Boa,0,0,1,2,0,Sim,Fundamental 1,Graduação,1,5,3,Pública,3.0
+127,ETIM,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Boa,Boa,Boa,Boa,0,0,1,2,0,Sim,Graduação,Graduação,5,4,4,Pública,4.333333333333333
+128,ETIM,Integrado,Parda,Feminino,3,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito ruim,0,1,3,2,0,Não,Graduação,Ensino médio,3,5,3,Pública,3.6666666666666665
+129,ETIM,Integrado,Branca,Feminino,3,18,1-2 vezes por semana,1,Regular,Boa,Boa,Muito boa,0,2,3,0,0,Sim,Pós-graduação,Pós-graduação,4,4,4,Pública,4.0
+130,ETIM,Integrado,Branca,Masculino,3,19,> 3 vezes por semana,1,Regular,Boa,Regular,Regular,0,2,1,1,1,Sim,Ensino médio,Ensino médio,5,4,4,Pública,4.333333333333333
+131,ETIM,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,3,Regular,Boa,Boa,Muito ruim,1,6,6,6,1,Não,Ensino médio,Fundamental 2,3,5,4,Pública,4.0
+132,ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Muito ruim,Boa,1,2,4,0,0,Sim,Ensino médio,Graduação,2,3,3,Pública,2.6666666666666665
+133,ETIM,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,2,Ruim,Muito boa,Boa,Muito boa,3,1,3,2,0,Sim,Graduação,Ensino médio,5,4,4,Pública,4.333333333333333
+134,ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,2,Boa,Boa,Boa,Regular,0,0,1,1,0,Sim,Graduação,Graduação,4,4,4,Pública,4.0
+135,ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,1,Boa,Muito boa,Regular,Boa,1,4,4,0,3,Sim,Fundamental 1,Ensino médio,3,4,3,Pública,3.3333333333333335
+136,ETIM,Integrado,Negra,Feminino,2,17,2-3 vezes por semana,2,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Graduação,3,4,5,Pública,4.0
+137,ETIM,Integrado,Parda,Feminino,2,17,< 1 vez por semana,0,Regular,Boa,Muito boa,Muito ruim,0,2,4,0,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+138,ETIM,Integrado,Branca,Feminino,2,17,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Graduação,3,4,3,Pública,3.3333333333333335
+139,ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,3,Regular,Regular,Boa,Muito ruim,3,4,2,0,0,Sim,Graduação,Ensino médio,3,4,4,Pública,3.6666666666666665
+140,ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,3,Boa,Boa,Boa,Muito boa,0,3,4,0,0,Sim,Fundamental 2,Fundamental 1,3,5,4,Pública,4.0
+141,ETIM,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Regular,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Graduação,Pós-graduação,4,3,3,Pública,3.3333333333333335
+142,ETIM,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Muito boa,Muito boa,Regular,Boa,4,4,2,3,4,Não,Graduação,Graduação,3,4,3,Pública,3.3333333333333335
+143,ETIM,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Regular,Boa,Boa,Boa,2,0,1,0,0,Sim,Ensino médio,Fundamental 2,4,3,3,Pública,3.3333333333333335
+144,ETIM,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Boa,Boa,Boa,Muito boa,3,2,2,2,0,Sim,Graduação,Pós-graduação,1,4,3,Pública,2.6666666666666665
+145,ETIM,Integrado,Parda,Feminino,1,16,2-3 vezes por semana,2,Regular,Boa,Boa,Ruim,2,3,2,1,0,Sim,Ensino médio,Ensino médio,2,4,2,Pública,2.6666666666666665
+146,ETIM,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,1,0,Sim,Graduação,Fundamental 2,4,4,4,Pública,4.0
+147,ETIM,Integrado,Parda,Feminino,1,16,< 1 vez por semana,0,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,5,4,Pública,4.0
+148,ETIM,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,0,Ruim,Boa,Boa,Boa,0,3,1,1,0,Sim,Ensino médio,Ensino médio,5,5,3,Pública,4.333333333333333
+149,ETIM,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,2,Boa,Boa,Boa,Ruim,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,3,5,3,Pública,3.6666666666666665
+150,ETIM,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,0,Regular,Muito boa,Boa,Muito boa,0,0,1,0,0,Sim,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+151,ETIM,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,1,Regular,Boa,Boa,Ruim,0,0,0,0,1,Não,Ensino médio,Ensino médio,3,5,3,Pública,3.6666666666666665
+152,ETIM,Integrado,Parda,Feminino,1,15,2-3 vezes por semana,3,Ruim,Boa,Regular,Ruim,1,4,3,1,0,Não,Ensino médio,Graduação,5,3,2,Pública,3.3333333333333335
+153,ETIM,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Ruim,Boa,Boa,Ruim,4,1,6,2,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+154,ETIM,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Boa,Boa,Boa,Boa,0,0,0,0,0,Não,Pós-graduação,Ensino médio,3,5,4,Pública,4.0
+155,ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,1,Ruim,Regular,Regular,Ruim,4,0,2,2,0,Sim,Fundamental 2,Graduação,4,2,3,Pública,3.0
+156,ETIM,Integrado,Negra,Masculino,3,18,1-2 vezes por semana,0,Boa,Muito boa,Boa,Boa,2,3,3,0,1,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+157,ETIM,Integrado,Negra,Masculino,3,18,1-2 vezes por semana,0,Regular,Boa,Regular,Boa,0,0,1,0,0,Sim,Fundamental 1,Fundamental 1,1,3,3,Pública,2.3333333333333335
+158,ETIM,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Regular,Boa,Regular,Muito boa,1,0,3,2,2,Sim,Pós-graduação,Ensino médio,4,4,4,Pública,4.0
+159,ETIM,Integrado,Negra,Feminino,1,15,< 1 vez por semana,1,Regular,Boa,Boa,Regular,2,0,0,1,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,3.0
+160,ETIM,Integrado,Parda,Masculino,1,16,1-2 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,1,2,0,0,0,Sim,Ensino médio,Graduação,5,5,5,Pública,5.0
+161,ETIM,Integrado,Parda,Masculino,1,15,< 1 vez por semana,0,Regular,Muito boa,Boa,Muito boa,4,2,5,6,4,Não,Ensino médio,Graduação,3,3,3,Pública,3.0
+162,ETIM,Integrado,Branca,Masculino,1,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Muito boa,0,2,2,1,1,Não,Ensino médio,Graduação,2,5,4,Pública,3.6666666666666665
+163,ETIM,Integrado,Branca,Masculino,1,16,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Ruim,2,2,6,0,1,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+164,ETIM,Integrado,Branca,Masculino,1,15,> 3 vezes por semana,1,Regular,Regular,Boa,Ruim,1,2,5,2,6,Não,Fundamental 1,Fundamental 2,5,4,3,Pública,4.0
+165,ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Regular,Muito boa,Boa,Muito boa,0,0,0,4,0,Sim,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+166,ETIM,Integrado,Negra,Masculino,1,15,2-3 vezes por semana,2,Boa,Muito boa,Boa,Boa,4,0,2,6,3,Sim,Ensino médio,Fundamental 2,4,4,3,Pública,3.6666666666666665
+167,ETIM,Integrado,Branca,Masculino,1,15,< 1 vez por semana,1,Muito boa,Boa,Boa,Regular,0,0,0,0,0,Sim,Graduação,Graduação,3,2,2,Pública,2.3333333333333335
+168,ETIM,Integrado,Parda,Feminino,1,15,< 1 vez por semana,2,Ruim,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Graduação,Ensino médio,4,3,1,Pública,2.6666666666666665
+169,ETIM,Integrado,Negra,Feminino,1,15,< 1 vez por semana,1,Ruim,Boa,Boa,Boa,0,1,1,0,0,Não,Graduação,Ensino médio,4,3,3,Pública,3.3333333333333335
+170,ETIM,Integrado,Parda,Masculino,2,16,< 1 vez por semana,1,Regular,Boa,Boa,Boa,2,0,0,0,0,Sim,Ensino médio,Graduação,4,5,4,Pública,4.333333333333333
+171,ETIM,Integrado,Parda,Masculino,2,16,> 3 vezes por semana,1,Regular,Boa,Regular,Boa,2,0,3,0,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,3.0
+172,ETIM,Integrado,Branca,Feminino,2,17,> 3 vezes por semana,2,Muito ruim,Boa,Boa,Muito ruim,0,3,6,0,0,Não,Graduação,Ensino médio,4,5,5,Pública,4.666666666666667
+173,ETIM,Integrado,Branca,Masculino,2,16,< 1 vez por semana,2,Regular,Boa,Boa,Boa,4,0,6,0,0,Sim,Pós-graduação,Graduação,3,4,3,Pública,3.3333333333333335
+174,ETIM,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,2,Muito ruim,Boa,Boa,Regular,4,3,6,1,5,Sim,Ensino médio,Ensino médio,3,4,3,Pública,3.3333333333333335
+175,ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,2,Ruim,Regular,Regular,Regular,0,6,3,1,0,Sim,Ensino médio,Ensino médio,3,4,3,Pública,3.3333333333333335
+176,ETIM,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,2,Ruim,Muito boa,Boa,Boa,1,2,4,2,2,Sim,Pós-graduação,Ensino médio,4,4,3,Pública,3.6666666666666665
+177,ETIM,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Ruim,Ruim,Regular,Muito ruim,4,4,6,2,2,Sim,Ensino médio,Ensino médio,2,4,3,Pública,3.0
+178,ETIM,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,0,Regular,Regular,Muito boa,Boa,1,0,6,0,1,Não,Graduação,Ensino médio,3,4,2,Pública,3.0
+179,ETIM,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,0,Ruim,Regular,Boa,Boa,2,4,4,2,1,Sim,Pós-graduação,Graduação,4,4,3,Pública,3.6666666666666665
+180,ETIM,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,2,0,2,2,0,Sim,Graduação,Pós-graduação,4,4,3,Pública,3.6666666666666665
+181,ETIM,Integrado,Branca,Masculino,3,18,1-2 vezes por semana,0,Regular,Muito boa,Boa,Muito boa,4,0,2,0,0,Sim,Ensino médio,Fundamental 1,5,5,5,Pública,5.0
+182,ETIM,Integrado,Parda,Masculino,3,18,> 3 vezes por semana,0,Boa,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Graduação,Graduação,3,3,3,Pública,3.0
+183,ETIM,Integrado,Branca,Masculino,3,19,> 3 vezes por semana,1,Ruim,Boa,Boa,Muito boa,4,4,4,4,2,Não,Ensino médio,Ensino médio,2,5,4,Pública,3.6666666666666665
+184,ETIM,Integrado,Parda,Masculino,3,18,2-3 vezes por semana,3,Regular,Muito boa,Boa,Ruim,1,0,3,1,2,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+185,ETIM,Integrado,Negra,Masculino,3,19,< 1 vez por semana,0,Ruim,Regular,Boa,Ruim,2,0,4,6,0,Sim,Graduação,Fundamental 1,5,4,3,Pública,4.0
+186,ETIM,Integrado,Parda,Masculino,3,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,2,0,0,2,0,Não,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+187,ETIM,Integrado,Parda,Masculino,3,18,> 3 vezes por semana,2,Boa,Muito boa,Boa,Boa,1,0,4,4,0,Não,Fundamental 1,Ensino médio,4,4,3,Pública,3.6666666666666665
+188,ETIM,Integrado,Negra,Masculino,3,18,1-2 vezes por semana,0,Boa,Boa,Boa,Regular,1,0,2,2,0,Sim,Ensino médio,Ensino médio,3,2,2,Pública,2.3333333333333335
+189,IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Boa,Muito boa,Boa,Boa,4,0,4,2,0,Sim,Ensino médio,Graduação,5,4,4,Pública,4.333333333333333
+190,IFSP,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,0,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Não,Fundamental 2,Graduação,3,4,4,Pública,3.6666666666666665
+191,IFSP,Integrado,Parda,Masculino,2,17,< 1 vez por semana,0,Boa,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,5,Pública,4.333333333333333
+192,IFSP,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,1,Ruim,Muito boa,Boa,Boa,0,1,0,2,0,Não,Ensino médio,Fundamental 2,4,4,5,Pública,4.333333333333333
+193,IFSP,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,1,Regular,Boa,Boa,Regular,1,0,2,0,0,Sim,Ensino médio,Graduação,4,4,4,Pública,4.0
+194,IFSP,Integrado,Parda,Feminino,2,16,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,2,0,2,0,Não,Fundamental 2,Ensino médio,3,4,4,Pública,3.6666666666666665
+195,IFSP,Integrado,Parda,Feminino,2,17,1-2 vezes por semana,0,Regular,Boa,Boa,Boa,1,0,3,1,0,Sim,Fundamental 2,Fundamental 2,4,4,4,Pública,4.0
+196,IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,2,0,0,0,0,Sim,Pós-graduação,Pós-graduação,5,5,5,Pública,5.0
+197,IFSP,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Boa,Boa,Boa,Regular,4,1,4,1,2,Sim,Pós-graduação,Pós-graduação,3,3,3,Pública,3.0
+198,IFSP,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,0,Boa,Muito boa,Boa,Regular,2,0,2,0,0,Sim,Graduação,Ensino médio,3,3,3,Pública,3.0
+199,IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Graduação,Pós-graduação,4,4,4,Pública,4.0
+200,IFSP,Integrado,Negra,Feminino,2,17,> 3 vezes por semana,2,Ruim,Boa,Muito boa,Boa,0,5,3,0,2,Não,Pós-graduação,Pós-graduação,3,4,4,Pública,3.6666666666666665
+201,IFSP,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,0,Regular,Boa,Boa,Regular,2,1,5,2,3,Sim,Pós-graduação,Ensino médio,4,5,4,Pública,4.333333333333333
+202,IFSP,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,0,Regular,Muito boa,Regular,Regular,0,1,2,0,0,Não,Graduação,Graduação,1,4,3,Pública,2.6666666666666665
+203,IFSP,Integrado,Negra,Feminino,2,17,1-2 vezes por semana,2,Regular,Muito boa,Regular,Regular,1,0,1,0,0,Sim,Fundamental 2,Fundamental 1,4,4,3,Pública,3.6666666666666665
+204,IFSP,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,1,Regular,Regular,Boa,Muito ruim,4,6,6,6,4,Não,Ensino médio,Fundamental 2,3,4,4,Pública,3.6666666666666665
+205,IFSP,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,3,Regular,Muito boa,Regular,Muito ruim,2,0,3,0,0,Sim,Ensino médio,Graduação,2,4,3,Pública,3.0
+206,IFSP,Integrado,Branca,Masculino,2,15,2-3 vezes por semana,1,Regular,Boa,Regular,Boa,4,2,6,2,3,Sim,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+207,IFSP,Integrado,Negra,Feminino,2,16,2-3 vezes por semana,1,Ruim,Regular,Boa,Regular,2,2,3,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+208,IFSP,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,0,Boa,Muito boa,Regular,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,4,3,3,Pública,3.3333333333333335
+209,IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,1,Boa,Boa,Boa,Boa,4,0,4,2,0,Sim,Graduação,Ensino médio,4,4,3,Pública,3.6666666666666665
+210,IFSP,Integrado,Parda,Feminino,2,15,1-2 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,1,0,Sim,Graduação,Ensino médio,3,4,3,Pública,3.3333333333333335
+211,IFSP,Integrado,Parda,Feminino,2,15,> 3 vezes por semana,2,Ruim,Regular,Regular,Muito ruim,1,3,1,0,0,Sim,Graduação,Graduação,3,5,4,Pública,4.0
+212,IFSP,Integrado,Negra,Masculino,2,16,> 3 vezes por semana,2,Regular,Boa,Boa,Ruim,0,3,3,0,0,Sim,Graduação,Graduação,3,4,4,Pública,3.6666666666666665
+213,IFSP,Integrado,Branca,Masculino,2,16,< 1 vez por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,3,3,Pública,3.3333333333333335
+214,IFSP,Integrado,Parda,Feminino,2,16,> 3 vezes por semana,1,Regular,Boa,Muito boa,Regular,1,6,3,4,2,Não,Ensino médio,Ensino médio,2,4,3,Pública,3.0
+215,IFSP,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,0,Regular,Boa,Muito boa,Muito boa,0,2,0,0,0,Sim,Ensino médio,Ensino médio,5,5,4,Pública,4.666666666666667
+216,IFSP,Integrado,Negra,Masculino,2,17,2-3 vezes por semana,0,Regular,Regular,Regular,Regular,0,0,0,1,0,Sim,Fundamental 2,Ensino médio,3,4,3,Pública,3.3333333333333335
+217,IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Regular,Muito boa,Muito boa,Ruim,0,1,1,0,0,Sim,Graduação,Graduação,3,4,3,Pública,3.3333333333333335
+218,IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,0,Boa,Ruim,Muito boa,Boa,0,6,3,2,4,Não,Graduação,Ensino médio,3,5,4,Pública,4.0
+219,IFSP,Integrado,Branca,Masculino,2,17,> 3 vezes por semana,2,Regular,Boa,Boa,Regular,0,2,6,0,0,Sim,Graduação,Graduação,4,4,1,Pública,3.0
+220,IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Ruim,Regular,Boa,Ruim,0,1,0,0,0,Sim,Fundamental 1,Fundamental 1,4,5,4,Pública,4.333333333333333
+221,IFSP,Integrado,Negra,Feminino,2,16,> 3 vezes por semana,1,Boa,Muito boa,Muito boa,Muito ruim,0,0,0,1,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+222,IFSP,Integrado,Negra,Feminino,2,17,1-2 vezes por semana,0,Ruim,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,5,4,Pública,4.0
+223,IFSP,Integrado,Parda,Feminino,2,16,> 3 vezes por semana,2,Regular,Boa,Boa,Boa,0,5,0,0,0,Sim,Graduação,Graduação,5,4,5,Pública,4.666666666666667
+224,IFSP,Integrado,Branca,Feminino,2,17,2-3 vezes por semana,1,Boa,Boa,Boa,Regular,0,0,0,0,0,Não,Pós-graduação,Ensino médio,3,4,2,Pública,3.0
+225,IFSP,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Boa,Regular,Boa,Regular,1,4,0,0,0,Não,Ensino médio,Ensino médio,4,3,3,Pública,3.3333333333333335
+226,IFSP,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Muito ruim,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,5,3,Pública,4.0
+227,IFSP,Integrado,Parda,Masculino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Boa,Muito ruim,0,0,0,0,0,Sim,Pós-graduação,Ensino médio,4,5,3,Pública,4.0
+228,IFSP,Integrado,Negra,Feminino,1,15,1-2 vezes por semana,1,Boa,Boa,Boa,Regular,0,2,3,0,0,Sim,Ensino médio,Ensino médio,3,4,2,Pública,3.0
+229,IFSP,Integrado,Branca,Feminino,1,15,< 1 vez por semana,2,Boa,Muito boa,Muito boa,Regular,0,3,3,0,2,Sim,Ensino médio,Ensino médio,2,5,2,Pública,3.0
+230,IFSP,Integrado,Branca,Feminino,1,16,2-3 vezes por semana,1,Regular,Boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Graduação,Fundamental 2,3,3,3,Pública,3.0
+231,IFSP,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Boa,0,0,1,0,0,Sim,Ensino médio,Graduação,2,4,3,Pública,3.0
+232,IFSP,Integrado,Parda,Feminino,1,15,> 3 vezes por semana,0,Ruim,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Fundamental 1,Graduação,4,4,4,Pública,4.0
+233,IFSP,Integrado,Branca,Feminino,1,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Graduação,Ensino médio,4,4,4,Pública,4.0
+234,IFSP,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,0,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,2,4,4,Pública,3.3333333333333335
+235,RB,Integrado,Branca,Masculino,1,16,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,0,3,0,0,Sim,Pós-graduação,Graduação,4,4,4,Privada,4.0
+236,RB,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,1,0,1,0,0,Sim,Graduação,Graduação,3,4,4,Privada,3.6666666666666665
+237,RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Regular,Muito boa,Regular,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,2,4,3,Privada,3.0
+238,RB,Integrado,Parda,Feminino,1,15,> 3 vezes por semana,2,Regular,Muito boa,Regular,Regular,0,6,3,3,0,Não,Pós-graduação,Pós-graduação,2,4,4,Privada,3.3333333333333335
+239,RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Muito boa,Muito boa,Muito ruim,Muito boa,0,0,0,4,0,Sim,Graduação,Pós-graduação,4,4,5,Privada,4.333333333333333
+240,RB,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Ruim,2,2,6,3,0,Sim,Pós-graduação,Pós-graduação,4,4,4,Privada,4.0
+241,RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,2,Regular,Boa,Boa,Muito boa,2,1,6,5,2,Sim,Graduação,Pós-graduação,5,4,4,Privada,4.333333333333333
+242,RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Regular,Boa,Boa,Regular,0,1,4,2,2,Sim,Graduação,Pós-graduação,5,4,4,Privada,4.333333333333333
+243,RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Regular,Boa,Muito boa,Regular,0,2,1,0,0,Sim,Pós-graduação,Graduação,5,2,4,Privada,3.6666666666666665
+244,RB,Integrado,Branca,Feminino,1,15,< 1 vez por semana,1,Muito boa,Muito boa,Muito boa,Muito boa,0,1,1,2,0,Sim,Pós-graduação,Pós-graduação,2,4,3,Privada,3.0
+245,RB,Integrado,Branca,Masculino,1,15,< 1 vez por semana,0,Muito boa,Muito boa,Muito boa,Ruim,0,3,5,6,2,Sim,Pós-graduação,Pós-graduação,1,4,5,Privada,3.3333333333333335
+246,RB,Integrado,Branca,Feminino,1,14,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Graduação,4,5,4,Privada,4.333333333333333
+247,RB,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,1,Ruim,Boa,Muito boa,Regular,0,5,2,0,0,Não,Pós-graduação,Pós-graduação,5,2,5,Privada,4.0
+248,RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,0,Boa,Boa,Boa,Regular,0,1,0,0,0,Sim,Pós-graduação,Pós-graduação,5,4,4,Privada,4.333333333333333
+249,RB,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,3,0,0,Sim,Graduação,Graduação,3,3,5,Privada,3.6666666666666665
+250,RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,0,1,1,0,0,Sim,Graduação,Graduação,2,2,2,Privada,2.0
+251,RB,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,1,0,0,Sim,Graduação,Graduação,5,3,5,Privada,4.333333333333333
+252,RB,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Muito boa,Muito boa,Muito boa,Boa,1,3,2,1,0,Sim,Graduação,Graduação,4,4,4,Privada,4.0
+253,RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,2,Boa,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,4,5,5,Privada,4.666666666666667
+254,RB,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,2,Regular,Regular,Muito boa,Boa,0,0,4,0,0,Sim,Pós-graduação,Pós-graduação,3,5,4,Privada,4.0
+255,RB,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,0,Regular,Boa,Muito boa,Boa,0,0,1,0,0,Sim,Pós-graduação,Pós-graduação,5,5,5,Privada,5.0
+256,RB,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,2,Boa,Boa,Muito boa,Boa,0,0,1,0,0,Sim,Pós-graduação,Pós-graduação,2,5,4,Privada,3.6666666666666665
+257,RB,Integrado,Branca,Feminino,2,15,1-2 vezes por semana,1,Boa,Muito boa,Boa,Muito boa,0,1,1,2,0,Não,Graduação,Graduação,3,4,4,Privada,3.6666666666666665
+258,RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,1,Regular,Boa,Boa,Regular,0,3,3,3,0,Sim,Pós-graduação,Pós-graduação,4,4,3,Privada,3.6666666666666665
+259,RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,1,Regular,Boa,Regular,Ruim,1,4,3,2,2,Não,Pós-graduação,Graduação,3,3,3,Privada,3.0
+260,RB,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,1,0,0,0,Sim,Ensino médio,Graduação,4,5,4,Privada,4.333333333333333
+261,RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,1,2,0,0,Sim,Pós-graduação,Pós-graduação,2,3,4,Privada,3.0
+262,RB,Integrado,Branca,Masculino,2,18,> 3 vezes por semana,1,Boa,Boa,Muito boa,Boa,1,2,2,0,0,Sim,Graduação,Pós-graduação,1,5,3,Privada,3.0
+263,RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Muito boa,Muito boa,0,0,1,1,1,Sim,Pós-graduação,Graduação,4,4,4,Privada,4.0
+264,RB,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Boa,Muito boa,0,0,2,0,1,Sim,Fundamental 1,Fundamental 2,1,3,4,Privada,2.6666666666666665
+265,RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,1,Regular,Muito boa,Boa,Ruim,0,0,1,2,0,Sim,Graduação,Pós-graduação,4,4,4,Privada,4.0
+266,RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,2,Regular,Muito boa,Muito boa,Regular,0,0,1,0,0,Sim,Pós-graduação,Pós-graduação,3,5,2,Privada,3.3333333333333335
+267,RB,Integrado,Branca,Masculino,2,16,2-3 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,2,0,0,0,Sim,Ensino médio,Ensino médio,5,4,5,Privada,4.666666666666667
+268,RB,Integrado,Branca,Masculino,2,16,> 3 vezes por semana,0,Regular,Muito boa,Boa,Regular,0,0,4,0,0,Sim,Graduação,Graduação,2,4,3,Privada,3.0
+269,RB,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,2,Muito boa,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Graduação,Graduação,4,4,4,Privada,4.0
+270,RB,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,1,Regular,Muito boa,Boa,Ruim,0,0,2,0,0,Sim,Graduação,Graduação,3,3,4,Privada,3.3333333333333335
+271,RB,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Ruim,0,2,0,0,0,Não,Graduação,Graduação,1,4,3,Privada,2.6666666666666665
+272,RB,Integrado,Branca,Feminino,3,16,> 3 vezes por semana,3,Muito ruim,Muito boa,Boa,Ruim,0,0,0,0,0,Não,Pós-graduação,Pós-graduação,3,5,3,Privada,3.6666666666666665
+273,RB,Integrado,Branca,Masculino,3,16,< 1 vez por semana,1,Regular,Muito boa,Regular,Muito boa,0,2,3,0,2,Não,Graduação,Ensino médio,4,4,4,Privada,4.0
+274,RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,1,2,0,0,Não,Graduação,Graduação,1,5,3,Privada,3.0
+275,RB,Integrado,Branca,Feminino,3,17,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,0,1,0,0,Sim,Graduação,Graduação,4,4,5,Privada,4.333333333333333
+276,RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Regular,0,3,0,0,0,Sim,Graduação,Pós-graduação,2,5,3,Privada,3.3333333333333335
+277,RB,Integrado,Branca,Feminino,3,16,2-3 vezes por semana,1,Ruim,Regular,Regular,Boa,1,6,3,1,5,Sim,Pós-graduação,Pós-graduação,3,4,4,Privada,3.6666666666666665
+278,RB,Integrado,Branca,Feminino,3,17,< 1 vez por semana,1,Boa,Muito boa,Boa,Regular,0,3,2,0,0,Sim,Pós-graduação,Pós-graduação,4,3,4,Privada,3.6666666666666665
+279,RB,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Boa,Muito boa,Boa,Regular,0,1,0,0,0,Sim,Graduação,Graduação,3,3,3,Privada,3.0
+280,RB,Integrado,Branca,Feminino,3,18,> 3 vezes por semana,0,Boa,Muito boa,Boa,Muito boa,0,1,0,0,0,Sim,Graduação,Graduação,3,4,4,Privada,3.6666666666666665
+281,RB,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,3,Regular,Muito boa,Boa,Regular,0,0,1,0,0,Sim,Graduação,Graduação,3,5,4,Privada,4.0
+282,RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Não,Pós-graduação,Graduação,3,4,4,Privada,3.6666666666666665
+283,RB,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,2,Ruim,Muito boa,Boa,Regular,0,1,2,0,0,Sim,Graduação,Pós-graduação,4,4,5,Privada,4.333333333333333
+284,RB,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,2,Regular,Muito boa,Boa,Ruim,0,2,1,0,0,Não,Graduação,Pós-graduação,3,5,4,Privada,4.0
+285,RB,Integrado,Branca,Masculino,3,16,< 1 vez por semana,0,Muito boa,Muito boa,Muito boa,Muito boa,0,2,0,0,0,Sim,Pós-graduação,Pós-graduação,5,5,5,Privada,5.0
+286,RB,Integrado,Branca,Feminino,3,18,2-3 vezes por semana,0,Boa,Muito boa,Boa,Boa,0,0,1,0,0,Não,Pós-graduação,Graduação,4,3,4,Privada,3.6666666666666665
+287,RB,Integrado,Branca,Masculino,3,18,> 3 vezes por semana,0,Ruim,Muito boa,Muito boa,Boa,0,0,4,0,0,Sim,Graduação,Graduação,3,5,4,Privada,4.0
+288,RB,Integrado,Branca,Feminino,3,17,< 1 vez por semana,1,Boa,Muito boa,Muito boa,Boa,0,1,0,0,0,Não,Graduação,Graduação,4,4,4,Privada,4.0
+289,RB,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Boa,Muito boa,Muito boa,Boa,0,0,1,1,0,Não,Pós-graduação,Pós-graduação,3,4,3,Privada,3.3333333333333335
+290,RB,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,3,Regular,Boa,Muito boa,Boa,0,3,2,0,3,Sim,Ensino médio,Pós-graduação,5,5,5,Privada,5.0
+291,RB,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito boa,0,1,0,0,1,Não,Pós-graduação,Pós-graduação,2,4,5,Privada,3.6666666666666665
+292,RB,Integrado,Branca,Masculino,3,17,2-3 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito ruim,0,0,0,1,0,Sim,Pós-graduação,Pós-graduação,2,5,4,Privada,3.6666666666666665
+293,RB,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,1,1,1,1,0,Sim,Graduação,Ensino médio,3,3,3,Privada,3.0
+294,RB,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,1,Ruim,Muito boa,Boa,Boa,0,5,0,0,1,Sim,Graduação,Graduação,1,4,3,Privada,2.6666666666666665
+295,SJ,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Muito ruim,Boa,Muito boa,Regular,1,1,3,1,1,Sim,Graduação,Graduação,1,4,4,Privada,3.0
+296,SJ,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Muito ruim,Muito boa,Muito boa,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,5,4,5,Privada,4.666666666666667
+297,SJ,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Regular,Boa,Boa,Regular,2,6,6,6,5,Sim,Ensino médio,Graduação,5,4,3,Privada,4.0
+298,SJ,Integrado,Branca,Feminino,1,15,< 1 vez por semana,0,Muito ruim,Muito boa,Boa,Muito boa,0,1,0,3,0,Sim,Pós-graduação,Pós-graduação,5,3,2,Privada,3.3333333333333335
+299,SJ,Integrado,Negra,Feminino,1,15,1-2 vezes por semana,0,Muito ruim,Muito boa,Muito boa,Muito boa,0,0,3,1,0,Sim,Ensino médio,Fundamental 1,2,4,4,Privada,3.3333333333333335
+300,SJ,Integrado,Branca,Feminino,1,15,1-2 vezes por semana,0,Regular,Muito boa,Regular,Regular,1,2,4,4,1,Sim,Pós-graduação,Graduação,5,5,3,Privada,4.333333333333333
+301,SJ,Integrado,Branca,Masculino,1,15,2-3 vezes por semana,1,Ruim,Boa,Regular,Muito ruim,3,0,6,6,2,Sim,Graduação,Pós-graduação,4,5,2,Privada,3.6666666666666665
+302,SJ,Integrado,Branca,Feminino,1,15,2-3 vezes por semana,0,Regular,Regular,Boa,Regular,0,1,5,3,0,Não,Ensino médio,Ensino médio,2,5,5,Privada,4.0
+303,SJ,Integrado,Branca,Feminino,1,15,> 3 vezes por semana,0,Ruim,Boa,Regular,Muito ruim,0,3,6,2,4,Sim,Pós-graduação,Pós-graduação,5,5,5,Privada,5.0
+304,SJ,Integrado,Branca,Feminino,1,14,2-3 vezes por semana,0,Regular,Muito boa,Regular,Muito ruim,2,2,4,3,2,Sim,Ensino médio,Ensino médio,1,3,4,Privada,2.6666666666666665
+305,SJ,Integrado,Branca,Feminino,2,16,< 1 vez por semana,1,Ruim,Boa,Muito boa,Ruim,0,4,2,1,0,Não,Pós-graduação,Pós-graduação,4,4,4,Privada,4.0
+306,SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito boa,0,0,0,0,0,Sim,Pós-graduação,Ensino médio,4,5,5,Privada,4.666666666666667
+307,SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Graduação,Graduação,3,4,4,Privada,3.6666666666666665
+308,SJ,Integrado,Parda,Masculino,2,16,1-2 vezes por semana,1,Muito ruim,Muito boa,Regular,Boa,1,3,3,0,4,Não,Pós-graduação,Fundamental 1,3,2,2,Privada,2.3333333333333335
+309,SJ,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,0,Muito ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,3,4,5,Privada,4.0
+310,SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Muito ruim,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Graduação,Graduação,3,5,5,Privada,4.333333333333333
+311,SJ,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Muito ruim,Muito boa,Boa,Boa,0,1,0,0,0,Não,Ensino médio,Pós-graduação,2,2,4,Privada,2.6666666666666665
+312,SJ,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,0,Ruim,Regular,Boa,Boa,1,6,3,1,2,Sim,Ensino médio,Pós-graduação,4,4,3,Privada,3.6666666666666665
+313,SJ,Integrado,Branca,Feminino,2,15,2-3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,1,1,1,0,Sim,Graduação,Ensino médio,2,5,5,Privada,4.0
+314,SJ,Integrado,Branca,Feminino,2,16,1-2 vezes por semana,0,Regular,Muito boa,Boa,Boa,2,4,4,5,5,Sim,Pós-graduação,Pós-graduação,4,3,3,Privada,3.3333333333333335
+315,SJ,Integrado,Branca,Masculino,2,16,1-2 vezes por semana,1,Regular,Muito boa,Muito boa,Regular,0,2,0,4,2,Sim,Graduação,Ensino médio,4,3,4,Privada,3.6666666666666665
+316,SJ,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Regular,Boa,Regular,Muito ruim,0,3,2,1,0,Sim,Pós-graduação,Pós-graduação,2,3,3,Privada,2.6666666666666665
+317,SJ,Integrado,Parda,Feminino,2,16,2-3 vezes por semana,0,Regular,Boa,Boa,Regular,0,3,5,2,0,Sim,Pós-graduação,Ensino médio,4,5,5,Privada,4.666666666666667
+318,SJ,Integrado,Branca,Feminino,2,16,> 3 vezes por semana,0,Regular,Boa,Muito boa,Ruim,0,3,4,4,1,Não,Pós-graduação,Graduação,5,5,5,Privada,5.0
+319,SJ,Integrado,Branca,Masculino,2,17,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,5,1,0,0,Sim,Graduação,Pós-graduação,5,5,5,Privada,5.0
+320,SJ,Integrado,Branca,Feminino,2,16,2-3 vezes por semana,0,Regular,Boa,Muito boa,Ruim,2,6,6,2,4,Sim,Ensino médio,Graduação,2,4,4,Privada,3.3333333333333335
+321,SJ,Integrado,Branca,Masculino,2,17,1-2 vezes por semana,1,Muito ruim,Muito boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Graduação,5,4,5,Privada,4.666666666666667
+322,SJ,Integrado,Branca,Feminino,3,17,2-3 vezes por semana,0,Regular,Muito boa,Muito boa,Regular,0,1,0,0,0,Sim,Pós-graduação,Pós-graduação,3,5,5,Privada,4.333333333333333
+323,SJ,Integrado,Branca,Masculino,3,19,2-3 vezes por semana,1,Regular,Regular,Regular,Muito ruim,4,5,6,2,5,Não,Ensino médio,Ensino médio,2,3,1,Privada,2.0
+324,SJ,Integrado,Branca,Feminino,3,17,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,2,6,4,3,Sim,Graduação,Pós-graduação,2,5,5,Privada,4.0
+325,SJ,Integrado,Branca,Masculino,3,17,< 1 vez por semana,1,Muito ruim,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Pós-graduação,2,5,3,Privada,3.3333333333333335
+326,SJ,Integrado,Branca,Feminino,3,17,< 1 vez por semana,0,Regular,Boa,Boa,Boa,0,2,6,0,5,Não,Ensino médio,Graduação,3,5,3,Privada,3.6666666666666665
+327,SJ,Integrado,Branca,Feminino,3,17,1-2 vezes por semana,0,Ruim,Muito boa,Muito boa,Muito boa,0,2,0,0,0,Não,Pós-graduação,Ensino médio,5,5,5,Privada,5.0
+328,SJ,Integrado,Branca,Masculino,3,17,1-2 vezes por semana,1,Muito ruim,Boa,Boa,Ruim,0,0,0,0,0,Não,Graduação,Graduação,5,3,5,Privada,4.333333333333333
+329,ETEC-OS,Conc-Sub,Branca,Feminino,3,19,< 1 vez por semana,2,Regular,Boa,Regular,Regular,3,3,3,3,3,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+330,ETEC-OS,Conc-Sub,Branca,Feminino,1,16,> 3 vezes por semana,2,Regular,Muito boa,Boa,Regular,3,3,3,3,3,Sim,Ensino médio,Fundamental 1,4,5,5,Pública,4.666666666666667
+331,ETEC-OS,Conc-Sub,Parda,Masculino,1,18,1-2 vezes por semana,1,Boa,Boa,Regular,Regular,3,3,3,3,3,Sim,Fundamental 1,Fundamental 1,3,4,4,Pública,3.6666666666666665
+332,ETEC-OS,Conc-Sub,Negra,Feminino,1,19,< 1 vez por semana,0,Regular,Muito boa,Regular,Boa,4,4,4,4,4,Sim,Fundamental 1,Fundamental 1,3,4,4,Pública,3.6666666666666665
+333,ETEC-OS,Conc-Sub,Parda,Feminino,1,18,2-3 vezes por semana,1,Regular,Muito boa,Regular,Ruim,2,2,2,2,2,Não,Fundamental 1,Ensino médio,3,4,4,Pública,3.6666666666666665
+334,ETEC-OS,Conc-Sub,Branca,Masculino,1,18,2-3 vezes por semana,2,Regular,Boa,Boa,Regular,3,3,3,3,3,Não,Graduação,Graduação,3,3,3,Pública,3.0
+335,ETEC-OS,Conc-Sub,Branca,Feminino,1,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,4,4,4,4,4,Não,Ensino médio,Ensino médio,3,3,3,Pública,3.0
+336,ETEC-OS,Conc-Sub,Branca,Feminino,1,18,< 1 vez por semana,1,Boa,Muito boa,Boa,Muito boa,5,5,5,5,5,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+337,ETEC-OS,Conc-Sub,Negra,Masculino,2,18,< 1 vez por semana,0,Muito ruim,Muito boa,Muito boa,Regular,3,3,3,3,3,Não,Ensino médio,Fundamental 2,1,3,3,Pública,2.3333333333333335
+338,ETEC-OS,Conc-Sub,Branca,Feminino,2,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito boa,5,5,5,5,5,Sim,Ensino médio,Ensino médio,3,4,3,Pública,3.3333333333333335
+339,ETEC-OS,Conc-Sub,Negra,Masculino,1,19,1-2 vezes por semana,1,Ruim,Boa,Boa,Muito boa,5,5,5,5,5,Não,Fundamental 2,Ensino médio,5,4,4,Pública,4.333333333333333
+340,ETEC-OS,Conc-Sub,Negra,Masculino,1,18,2-3 vezes por semana,1,Muito ruim,Regular,Regular,Muito ruim,1,1,1,1,1,Não,Fundamental 1,Fundamental 1,4,4,4,Pública,4.0
+341,ETEC-OS,Conc-Sub,Parda,Feminino,1,19,1-2 vezes por semana,1,Regular,Boa,Boa,Muito boa,5,5,5,5,5,Sim,Ensino médio,Ensino médio,5,4,4,Pública,4.333333333333333
+342,ETEC-OS,Conc-Sub,Branca,Masculino,1,18,1-2 vezes por semana,0,Boa,Muito boa,Boa,Boa,4,4,4,4,4,Sim,Graduação,Ensino médio,5,4,4,Pública,4.333333333333333
+343,ETEC-OS,Conc-Sub,Parda,Feminino,2,19,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Regular,3,3,3,3,3,Não,Graduação,Graduação,5,4,4,Pública,4.333333333333333
+344,ETEC-OS,Conc-Sub,Parda,Masculino,2,19,> 3 vezes por semana,0,Regular,Boa,Regular,Ruim,2,2,2,2,2,Não,Fundamental 1,Fundamental 1,3,3,3,Pública,3.0
+345,ETEC-OS,Conc-Sub,Parda,Feminino,2,19,< 1 vez por semana,0,Boa,Boa,Boa,Boa,4,4,4,4,4,Sim,Ensino médio,Ensino médio,2,4,4,Pública,3.3333333333333335
+346,ETEC-OS,Conc-Sub,Parda,Masculino,2,18,< 1 vez por semana,0,Muito boa,Muito boa,Muito boa,Muito boa,5,5,5,5,5,Sim,Fundamental 2,Fundamental 2,5,4,4,Pública,4.333333333333333
+347,ETEC-OS,Conc-Sub,Parda,Masculino,3,18,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,4,4,4,4,4,Não,Graduação,Graduação,4,3,4,Pública,3.6666666666666665
+348,ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,4,Pública,4.0
+349,ETEC-BQ,Conc-Sub,Branca,Feminino,1,16,2-3 vezes por semana,2,Regular,Boa,Boa,Regular,0,2,1,0,0,Sim,Graduação,Graduação,4,4,2,Pública,3.3333333333333335
+350,ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,2-3 vezes por semana,0,Ruim,Muito boa,Boa,Boa,0,0,1,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+351,ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,> 3 vezes por semana,2,Regular,Boa,Regular,Regular,0,0,0,0,0,Não,Ensino médio,Fundamental 2,5,4,4,Pública,4.333333333333333
+352,ETEC-BQ,Conc-Sub,Branca,Masculino,2,17,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,1,0,Não,Graduação,Fundamental 2,3,3,3,Pública,3.0
+353,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,3,3,Pública,3.3333333333333335
+354,ETEC-BQ,Conc-Sub,Parda,Feminino,1,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 1,Graduação,3,5,5,Pública,4.333333333333333
+355,ETEC-BQ,Conc-Sub,Branca,Feminino,1,18,2-3 vezes por semana,0,Boa,Muito boa,Muito boa,Regular,0,0,0,0,0,Sim,Fundamental 1,Ensino médio,5,4,4,Pública,4.333333333333333
+356,ETEC-BQ,Conc-Sub,Parda,Feminino,1,18,2-3 vezes por semana,1,Ruim,Muito boa,Boa,Regular,0,1,0,0,0,Sim,Fundamental 1,Fundamental 1,3,4,5,Pública,4.0
+357,ETEC-BQ,Conc-Sub,Branca,Masculino,1,16,1-2 vezes por semana,0,Boa,Muito boa,Regular,Regular,0,0,1,0,0,Sim,Ensino médio,Ensino médio,4,3,2,Pública,3.0
+358,ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,5,4,4,Pública,4.333333333333333
+359,ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,< 1 vez por semana,1,Ruim,Boa,Boa,Muito boa,0,3,0,0,0,Não,Fundamental 2,Fundamental 2,3,4,4,Pública,3.6666666666666665
+360,ETEC-BQ,Conc-Sub,Negra,Feminino,1,18,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,4,0,2,Não,Fundamental 1,Fundamental 2,3,5,4,Pública,4.0
+361,ETEC-BQ,Conc-Sub,Parda,Masculino,1,16,> 3 vezes por semana,1,Boa,Muito boa,Regular,Regular,1,0,1,1,1,Sim,Ensino médio,Ensino médio,3,4,3,Pública,3.3333333333333335
+362,ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,5,4,4,Pública,4.333333333333333
+363,ETEC-BQ,Conc-Sub,Branca,Masculino,1,16,> 3 vezes por semana,2,Ruim,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,5,4,Pública,4.333333333333333
+364,ETEC-BQ,Conc-Sub,Negra,Feminino,1,18,> 3 vezes por semana,2,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Graduação,Ensino médio,4,3,3,Pública,3.3333333333333335
+365,ETEC-BQ,Conc-Sub,Parda,Masculino,1,17,2-3 vezes por semana,0,Regular,Boa,Regular,Muito boa,2,0,2,1,0,Não,Fundamental 1,Fundamental 1,1,3,3,Pública,2.3333333333333335
+366,ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,< 1 vez por semana,1,Regular,Boa,Boa,Muito boa,2,0,2,0,0,Não,Ensino médio,Ensino médio,3,3,3,Pública,3.0
+367,ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,1-2 vezes por semana,0,Muito boa,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Graduação,4,5,4,Pública,4.333333333333333
+368,ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,1,0,0,Sim,Fundamental 2,Ensino médio,5,3,2,Pública,3.3333333333333335
+369,ETEC-BQ,Conc-Sub,Negra,Masculino,1,18,< 1 vez por semana,2,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,4,4,4,Pública,4.0
+370,ETEC-BQ,Conc-Sub,Negra,Feminino,3,18,< 1 vez por semana,0,Ruim,Boa,Boa,Muito boa,0,0,0,0,0,Não,Graduação,Ensino médio,3,4,4,Pública,3.6666666666666665
+371,ETEC-BQ,Conc-Sub,Parda,Masculino,3,18,1-2 vezes por semana,3,Ruim,Regular,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,4,4,4,Pública,4.0
+372,ETEC-BQ,Conc-Sub,Parda,Feminino,3,17,> 3 vezes por semana,2,Muito ruim,Muito boa,Boa,Boa,0,3,0,0,0,Não,Ensino médio,Fundamental 2,4,4,4,Pública,4.0
+373,ETEC-BQ,Conc-Sub,Branca,Feminino,3,18,> 3 vezes por semana,1,Muito ruim,Regular,Regular,Muito ruim,0,0,0,0,0,Sim,Graduação,Ensino médio,2,4,3,Pública,3.0
+374,ETEC-BQ,Conc-Sub,Parda,Masculino,2,18,2-3 vezes por semana,1,Regular,Boa,Boa,Muito boa,0,0,1,1,0,Sim,Ensino médio,Ensino médio,4,5,5,Pública,4.666666666666667
+375,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,< 1 vez por semana,1,Ruim,Muito boa,Muito boa,Muito boa,2,2,4,0,2,Sim,Fundamental 1,Fundamental 1,3,4,4,Pública,3.6666666666666665
+376,ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+377,ETEC-BQ,Conc-Sub,Parda,Masculino,2,18,< 1 vez por semana,0,Muito boa,Boa,Muito boa,Muito boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+378,ETEC-BQ,Conc-Sub,Parda,Masculino,3,18,< 1 vez por semana,0,Regular,Muito boa,Regular,Muito boa,0,0,2,0,0,Sim,Fundamental 1,Pós-graduação,3,3,3,Pública,3.0
+379,ETEC-BQ,Conc-Sub,Negra,Masculino,2,17,> 3 vezes por semana,0,Regular,Regular,Muito boa,Regular,4,5,6,3,3,Não,Graduação,Ensino médio,4,4,4,Pública,4.0
+380,ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,1-2 vezes por semana,0,Ruim,Regular,Muito boa,Regular,0,0,0,2,0,Não,Ensino médio,Ensino médio,5,4,4,Pública,4.333333333333333
+381,ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,2-3 vezes por semana,0,Ruim,Boa,Muito boa,Regular,0,1,1,0,0,Sim,Ensino médio,Fundamental 2,5,3,4,Pública,4.0
+382,ETEC-BQ,Conc-Sub,Parda,Feminino,2,16,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,5,4,4,Pública,4.333333333333333
+383,ETEC-BQ,Conc-Sub,Parda,Masculino,2,18,< 1 vez por semana,0,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 1,Ensino médio,4,4,4,Pública,4.0
+384,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,< 1 vez por semana,1,Ruim,Muito boa,Muito boa,Boa,0,0,2,0,0,Sim,Fundamental 2,Ensino médio,3,4,4,Pública,3.6666666666666665
+385,ETEC-BQ,Conc-Sub,Parda,Feminino,2,17,> 3 vezes por semana,2,Muito boa,Boa,Muito boa,Muito ruim,0,5,6,2,2,Sim,Ensino médio,Fundamental 2,1,5,4,Pública,3.3333333333333335
+386,ETEC-BQ,Conc-Sub,Negra,Feminino,2,18,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 1,Fundamental 2,3,4,4,Pública,3.6666666666666665
+387,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,0,0,1,0,Não,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+388,ETEC-BQ,Conc-Sub,Parda,Feminino,2,17,> 3 vezes por semana,2,Ruim,Boa,Boa,Ruim,2,2,2,1,0,Não,Fundamental 1,Ensino médio,3,5,5,Pública,4.333333333333333
+389,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Ruim,Regular,Boa,Muito ruim,0,0,4,0,0,Sim,Ensino médio,Ensino médio,4,3,4,Pública,3.6666666666666665
+390,ETEC-BQ,Conc-Sub,Branca,Feminino,2,18,> 3 vezes por semana,0,Muito ruim,Boa,Boa,Ruim,0,0,0,0,0,Sim,Graduação,Graduação,4,4,4,Pública,4.0
+391,ETEC-BQ,Conc-Sub,Branca,Feminino,2,18,1-2 vezes por semana,2,Ruim,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,3,4,Pública,3.6666666666666665
+392,ETEC-BQ,Conc-Sub,Parda,Feminino,2,17,1-2 vezes por semana,1,Ruim,Boa,Boa,Ruim,0,0,0,0,0,Não,Ensino médio,Fundamental 2,5,5,4,Pública,4.666666666666667
+393,ETEC-BQ,Conc-Sub,Branca,Feminino,2,16,1-2 vezes por semana,1,Ruim,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Fundamental 2,Fundamental 1,4,4,4,Pública,4.0
+394,ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,2-3 vezes por semana,1,Boa,Muito boa,Boa,Boa,1,0,1,3,0,Não,Fundamental 1,Fundamental 2,3,4,2,Pública,3.0
+395,ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,1,Ruim,Regular,Boa,Boa,2,0,4,3,0,Não,Ensino médio,Fundamental 2,3,4,4,Pública,3.6666666666666665
+396,ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,> 3 vezes por semana,0,Boa,Muito boa,Boa,Boa,1,0,2,3,0,Sim,Ensino médio,Ensino médio,5,4,5,Pública,4.666666666666667
+397,ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,0,Regular,Boa,Regular,Regular,0,0,2,1,0,Não,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+398,ETEC-BQ,Conc-Sub,Branca,Masculino,1,17,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,4,0,0,0,Não,Ensino médio,Ensino médio,4,3,3,Pública,3.3333333333333335
+399,ETEC-BQ,Conc-Sub,Negra,Masculino,1,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,0,2,0,Sim,Fundamental 2,Fundamental 2,4,3,4,Pública,3.6666666666666665
+400,ETEC-BQ,Conc-Sub,Negra,Masculino,1,17,2-3 vezes por semana,2,Muito boa,Boa,Muito boa,Regular,4,4,5,4,0,Não,Fundamental 1,Fundamental 1,2,3,3,Pública,2.6666666666666665
+401,ETEC-BQ,Conc-Sub,Parda,Feminino,1,18,> 3 vezes por semana,2,Muito ruim,Muito boa,Boa,Ruim,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,3,3,Pública,3.3333333333333335
+402,ETEC-BQ,Conc-Sub,Branca,Masculino,1,16,> 3 vezes por semana,0,Regular,Boa,Boa,Regular,0,1,5,3,0,Sim,Ensino médio,Ensino médio,5,4,3,Pública,4.0
+403,ETEC-BQ,Conc-Sub,Branca,Masculino,3,18,> 3 vezes por semana,0,Regular,Regular,Regular,Muito ruim,0,0,4,1,1,Sim,Fundamental 1,Fundamental 1,3,3,3,Pública,3.0
+404,ETEC-BQ,Conc-Sub,Branca,Masculino,3,18,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Pós-graduação,Ensino médio,4,4,4,Pública,4.0
+405,ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,< 1 vez por semana,0,Regular,Muito boa,Muito boa,Muito boa,0,5,2,0,2,Sim,Ensino médio,Graduação,4,3,3,Pública,3.3333333333333335
+406,ETEC-BQ,Conc-Sub,Parda,Masculino,4,18,> 3 vezes por semana,0,Ruim,Muito boa,Muito boa,Boa,0,5,1,0,2,Sim,Ensino médio,Fundamental 2,5,4,4,Pública,4.333333333333333
+407,ETEC-BQ,Conc-Sub,Parda,Masculino,4,18,> 3 vezes por semana,1,Muito ruim,Muito boa,Boa,Muito boa,4,6,6,4,1,Não,Ensino médio,Fundamental 1,4,4,4,Pública,4.0
+408,ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,> 3 vezes por semana,2,Ruim,Regular,Boa,Ruim,0,1,2,0,0,Não,Ensino médio,Graduação,4,3,3,Pública,3.3333333333333335
+409,ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,2-3 vezes por semana,1,Ruim,Regular,Boa,Regular,1,6,6,2,3,Sim,Ensino médio,Graduação,4,3,4,Pública,3.6666666666666665
+410,ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,1-2 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,3,0,0,Não,Ensino médio,Fundamental 2,3,4,4,Pública,3.6666666666666665
+411,ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,1-2 vezes por semana,1,Muito ruim,Boa,Boa,Muito ruim,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,1,1,Pública,1.6666666666666667
+412,ETEC-BQ,Conc-Sub,Negra,Masculino,4,18,1-2 vezes por semana,1,Boa,Boa,Muito boa,Boa,0,0,0,0,0,Não,Fundamental 1,Fundamental 1,4,4,4,Pública,4.0
+413,ETEC-BQ,Conc-Sub,Parda,Masculino,1,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Boa,0,0,4,0,0,Sim,Fundamental 2,Fundamental 1,3,3,3,Pública,3.0
+414,ETEC-BQ,Conc-Sub,Parda,Masculino,1,18,> 3 vezes por semana,0,Regular,Boa,Boa,Regular,0,0,2,0,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,3.0
+415,ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,1,Ruim,Boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+416,ETEC-BQ,Conc-Sub,Branca,Masculino,1,18,> 3 vezes por semana,0,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Fundamental 2,Graduação,4,4,4,Pública,4.0
+417,ETEC-BQ,Conc-Sub,Parda,Masculino,1,17,> 3 vezes por semana,1,Boa,Boa,Regular,Regular,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,3,4,4,Pública,3.6666666666666665
+418,ETEC-BQ,Conc-Sub,Parda,Masculino,1,16,2-3 vezes por semana,0,Boa,Muito boa,Regular,Boa,1,0,3,0,1,Sim,Ensino médio,Ensino médio,3,4,3,Pública,3.3333333333333335
+419,ETEC-BQ,Conc-Sub,Branca,Feminino,2,17,> 3 vezes por semana,1,Ruim,Boa,Boa,Boa,0,0,1,1,0,Não,Ensino médio,Fundamental 1,2,3,3,Pública,2.6666666666666665
+420,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+421,ETEC-BQ,Conc-Sub,Negra,Masculino,2,17,2-3 vezes por semana,0,Ruim,Boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Graduação,4,3,3,Pública,3.3333333333333335
+422,ETEC-BQ,Conc-Sub,Branca,Masculino,2,17,> 3 vezes por semana,2,Ruim,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Ensino médio,Fundamental 1,4,4,4,Pública,4.0
+423,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,0,Muito boa,Boa,Boa,Muito boa,3,3,6,5,0,Sim,Pós-graduação,Graduação,3,3,3,Pública,3.0
+424,ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,< 1 vez por semana,0,Ruim,Boa,Boa,Ruim,1,0,3,0,0,Sim,Ensino médio,Graduação,3,4,4,Pública,3.6666666666666665
+425,ETEC-BQ,Conc-Sub,Branca,Masculino,2,17,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Graduação,3,3,3,Pública,3.0
+426,ETEC-BQ,Conc-Sub,Parda,Masculino,2,17,> 3 vezes por semana,1,Regular,Boa,Boa,Boa,0,1,0,1,0,Não,Ensino médio,Ensino médio,3,2,3,Pública,2.6666666666666665
+427,ETEC-BQ,Conc-Sub,Negra,Masculino,2,18,< 1 vez por semana,0,Boa,Muito boa,Muito boa,Ruim,2,2,5,0,0,Sim,Ensino médio,Ensino médio,4,3,4,Pública,3.6666666666666665
+428,ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Muito boa,2,0,4,0,0,Sim,Graduação,Graduação,3,4,3,Pública,3.3333333333333335
+429,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,> 3 vezes por semana,1,Muito ruim,Boa,Regular,Boa,0,0,5,4,0,Não,Ensino médio,Ensino médio,2,3,3,Pública,2.6666666666666665
+430,ETEC-BQ,Conc-Sub,Branca,Masculino,4,17,< 1 vez por semana,1,Regular,Boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Graduação,4,3,4,Pública,3.6666666666666665
+431,ETEC-BQ,Conc-Sub,Branca,Masculino,4,18,< 1 vez por semana,0,Ruim,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Fundamental 2,4,4,4,Pública,4.0
+432,ETEC-BQ,Conc-Sub,Branca,Masculino,4,17,2-3 vezes por semana,0,Regular,Regular,Regular,Boa,0,0,5,2,2,Sim,Graduação,Ensino médio,2,3,3,Pública,2.6666666666666665
+433,ETEC-BQ,Conc-Sub,Branca,Masculino,4,17,< 1 vez por semana,1,Regular,Muito boa,Boa,Boa,0,0,2,2,0,Sim,Pós-graduação,Graduação,4,3,3,Pública,3.3333333333333335
+434,ETEC-BQ,Conc-Sub,Parda,Feminino,1,19,2-3 vezes por semana,2,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,5,5,5,Pública,5.0
+435,ETEC-BQ,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,1,Regular,Regular,Boa,Regular,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,4,3,3,Pública,3.3333333333333335
+436,ETEC-BQ,Conc-Sub,Parda,Masculino,1,19,1-2 vezes por semana,0,Ruim,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,5,4,3,Pública,4.0
+437,ETEC-BQ,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,1,Boa,Boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 2,Fundamental 1,5,4,4,Pública,4.333333333333333
+438,ETEC-BQ,Conc-Sub,Negra,Feminino,3,19,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,1,0,0,0,Sim,Fundamental 2,Fundamental 1,4,4,4,Pública,4.0
+439,ETEC-BQ,Conc-Sub,Parda,Masculino,2,19,> 3 vezes por semana,0,Regular,Boa,Regular,Boa,0,0,0,0,0,Sim,Ensino médio,Fundamental 1,4,4,4,Pública,4.0
+440,ETEC-BQ,Conc-Sub,Negra,Feminino,2,19,< 1 vez por semana,0,Ruim,Boa,Boa,Boa,0,0,2,0,0,Não,Fundamental 2,Fundamental 2,4,4,4,Pública,4.0
+441,ETEC-BQ,Conc-Sub,Branca,Masculino,2,18,1-2 vezes por semana,0,Muito boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Graduação,4,4,4,Pública,4.0
+442,ETEC-BQ,Conc-Sub,Parda,Masculino,4,19,< 1 vez por semana,0,Ruim,Muito boa,Regular,Regular,0,0,4,0,0,Não,Ensino médio,Ensino médio,3,5,3,Pública,3.6666666666666665
+443,ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,1-2 vezes por semana,1,Ruim,Regular,Boa,Boa,3,0,3,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+444,ETEC-BQ,Conc-Sub,Negra,Masculino,4,19,2-3 vezes por semana,0,Regular,Muito boa,Muito boa,Regular,0,0,0,2,2,Não,Graduação,Graduação,4,4,4,Pública,4.0
+445,ETEC-BQ,Conc-Sub,Branca,Masculino,2,16,> 3 vezes por semana,0,Ruim,Boa,Boa,Ruim,0,1,1,4,1,Sim,Ensino médio,Graduação,4,3,3,Pública,3.3333333333333335
+446,ETEC-BQ,Conc-Sub,Branca,Masculino,2,19,2-3 vezes por semana,0,Regular,Boa,Muito boa,Boa,0,2,2,0,0,Sim,Ensino médio,Ensino médio,3,4,4,Pública,3.6666666666666665
+447,ETEC-BQ,Conc-Sub,Parda,Masculino,4,19,1-2 vezes por semana,0,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Pós-graduação,Graduação,4,4,3,Pública,3.6666666666666665
+448,ETEC-BQ,Conc-Sub,Parda,Masculino,4,19,< 1 vez por semana,0,Ruim,Boa,Boa,Boa,2,0,2,0,0,Não,Fundamental 2,Ensino médio,3,3,3,Pública,3.0
+449,ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,2-3 vezes por semana,2,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,4,5,5,Pública,4.666666666666667
+450,ETEC-BQ,Conc-Sub,Branca,Masculino,3,19,< 1 vez por semana,0,Ruim,Muito boa,Muito boa,Muito boa,0,0,0,0,0,Não,Fundamental 2,Ensino médio,5,5,5,Pública,5.0
+451,ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,> 3 vezes por semana,3,Muito ruim,Boa,Muito boa,Boa,0,4,6,0,2,Sim,Fundamental 1,Fundamental 2,3,5,5,Pública,4.333333333333333
+452,ETEC-BQ,Conc-Sub,Branca,Masculino,4,19,> 3 vezes por semana,3,Muito ruim,Boa,Muito boa,Muito ruim,2,2,6,0,0,Não,Ensino médio,Fundamental 2,3,2,1,Pública,2.0
+453,ETEC-BQ,Conc-Sub,Branca,Masculino,3,19,2-3 vezes por semana,1,Regular,Boa,Boa,Ruim,0,0,3,0,0,Sim,Ensino médio,Fundamental 1,3,3,3,Pública,3.0
+454,ETEC-BQ,Conc-Sub,Branca,Masculino,1,19,< 1 vez por semana,0,Regular,Muito boa,Boa,Boa,1,0,1,2,0,Não,Ensino médio,Fundamental 1,5,2,3,Pública,3.3333333333333335
+455,ETEC-BQ,Conc-Sub,Branca,Masculino,1,19,< 1 vez por semana,2,Regular,Muito boa,Boa,Regular,0,2,3,4,0,Não,Graduação,Graduação,4,4,3,Pública,3.6666666666666665
+456,ETEC-HM,Conc-Sub,Branca,Masculino,2,18,2-3 vezes por semana,0,Boa,Boa,Boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+457,ETEC-HM,Conc-Sub,Parda,Feminino,2,19,< 1 vez por semana,0,Regular,Boa,Boa,Muito ruim,0,0,2,0,0,Sim,Graduação,Fundamental 2,2,5,4,Pública,3.6666666666666665
+458,ETEC-HM,Conc-Sub,Branca,Masculino,2,19,> 3 vezes por semana,1,Regular,Muito boa,Boa,Boa,0,0,0,0,1,Não,Ensino médio,Ensino médio,5,5,5,Pública,5.0
+459,ETEC-HM,Conc-Sub,Branca,Feminino,2,18,< 1 vez por semana,1,Regular,Boa,Boa,Regular,0,2,0,0,0,Não,Ensino médio,Fundamental 2,4,3,3,Pública,3.3333333333333335
+460,ETEC-HM,Conc-Sub,Branca,Feminino,2,18,> 3 vezes por semana,3,Muito ruim,Boa,Muito boa,Ruim,0,0,1,0,0,Não,Ensino médio,Ensino médio,5,4,5,Pública,4.666666666666667
+461,ETEC-HM,Conc-Sub,Branca,Feminino,1,18,2-3 vezes por semana,2,Regular,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+462,ETEC-HM,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,1,Regular,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,5,5,5,Pública,5.0
+463,ETEC-HM,Conc-Sub,Parda,Feminino,1,19,2-3 vezes por semana,3,Muito ruim,Muito boa,Muito boa,Regular,0,0,0,0,0,Não,Fundamental 2,Fundamental 2,5,5,4,Pública,4.666666666666667
+464,ETEC-HM,Conc-Sub,Negra,Feminino,1,19,> 3 vezes por semana,2,Regular,Muito boa,Muito boa,Regular,0,0,0,0,0,Sim,Fundamental 1,Fundamental 1,5,5,4,Pública,4.666666666666667
+465,ETEC-HM,Conc-Sub,Negra,Feminino,1,19,> 3 vezes por semana,2,Regular,Muito boa,Muito boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,5,5,4,Pública,4.666666666666667
+466,ETEC-HM,Conc-Sub,Parda,Masculino,3,17,> 3 vezes por semana,0,Regular,Muito boa,Muito boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Ensino médio,3,3,3,Pública,3.0
+467,ETEC-HM,Conc-Sub,Branca,Masculino,3,16,> 3 vezes por semana,0,Regular,Muito boa,Boa,Boa,1,0,1,0,0,Sim,Fundamental 2,Fundamental 1,4,5,4,Pública,4.333333333333333
+468,ETEC-HM,Conc-Sub,Negra,Feminino,3,18,2-3 vezes por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 1,4,4,4,Pública,4.0
+469,ETEC-HM,Conc-Sub,Negra,Feminino,3,19,< 1 vez por semana,1,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Fundamental 2,Fundamental 1,3,4,3,Pública,3.3333333333333335
+470,ETEC-HM,Conc-Sub,Parda,Feminino,3,19,> 3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,2,3,3,Pública,2.6666666666666665
+471,ETEC-HM,Conc-Sub,Parda,Feminino,2,17,> 3 vezes por semana,2,Muito ruim,Muito boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 2,Fundamental 2,2,4,4,Pública,3.3333333333333335
+472,ETEC-HM,Conc-Sub,Parda,Feminino,2,18,1-2 vezes por semana,0,Muito boa,Boa,Muito boa,Regular,0,2,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+473,ETEC-HM,Conc-Sub,Negra,Feminino,2,18,1-2 vezes por semana,0,Boa,Boa,Muito boa,Regular,0,4,0,0,0,Sim,Fundamental 1,Fundamental 2,4,4,4,Pública,4.0
+474,ETEC-HM,Conc-Sub,Parda,Feminino,2,18,1-2 vezes por semana,1,Muito ruim,Boa,Muito boa,Boa,0,1,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+475,ETEC-HM,Conc-Sub,Parda,Feminino,2,19,> 3 vezes por semana,1,Regular,Boa,Muito boa,Ruim,0,0,1,0,0,Não,Ensino médio,Ensino médio,5,5,4,Pública,4.666666666666667
+476,ETEC-HM,Conc-Sub,Branca,Feminino,2,18,2-3 vezes por semana,0,Muito boa,Ruim,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,4,4,Pública,4.0
+477,ETEC-HM,Conc-Sub,Parda,Feminino,3,19,> 3 vezes por semana,0,Regular,Boa,Muito boa,Muito boa,0,0,0,0,0,Não,Ensino médio,Ensino médio,3,3,3,Pública,3.0
+478,ETEC-HM,Conc-Sub,Branca,Feminino,3,18,< 1 vez por semana,1,Regular,Boa,Boa,Muito boa,0,0,0,0,0,Não,Ensino médio,Fundamental 2,3,4,3,Pública,3.3333333333333335
+479,ETEC-HM,Conc-Sub,Negra,Masculino,3,18,> 3 vezes por semana,1,Muito ruim,Boa,Boa,Regular,0,0,0,0,0,Não,Fundamental 1,Fundamental 1,4,3,3,Pública,3.3333333333333335
+480,ETEC-HM,Conc-Sub,Parda,Masculino,3,19,< 1 vez por semana,1,Boa,Muito boa,Muito boa,Boa,0,0,0,0,0,Não,Ensino médio,Fundamental 1,3,3,3,Pública,3.0
+481,ETEC-HM,Conc-Sub,Branca,Feminino,3,18,> 3 vezes por semana,2,Regular,Muito boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,5,4,Pública,4.333333333333333
+482,ETEC-HM,Conc-Sub,Branca,Feminino,3,19,< 1 vez por semana,1,Muito boa,Muito boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,3,3,3,Pública,3.0
+483,ETEC-HM,Conc-Sub,Parda,Feminino,3,19,> 3 vezes por semana,0,Boa,Boa,Boa,Muito boa,0,0,0,0,0,Sim,Fundamental 2,Fundamental 2,5,5,5,Pública,5.0
+484,ETEC-HM,Conc-Sub,Parda,Feminino,1,19,> 3 vezes por semana,2,Muito ruim,Regular,Boa,Ruim,0,0,0,0,0,Sim,Fundamental 1,Fundamental 2,4,4,4,Pública,4.0
+485,ETEC-HM,Conc-Sub,Parda,Feminino,1,18,< 1 vez por semana,2,Regular,Muito boa,Boa,Ruim,0,0,0,0,0,Sim,Ensino médio,Fundamental 1,5,4,4,Pública,4.333333333333333
+486,ETEC-HM,Conc-Sub,Parda,Masculino,1,19,> 3 vezes por semana,1,Regular,Boa,Boa,Regular,0,0,0,0,0,Não,Ensino médio,Ensino médio,4,4,3,Pública,3.6666666666666665
+487,ETEC-HM,Conc-Sub,Branca,Masculino,1,18,2-3 vezes por semana,2,Regular,Boa,Boa,Boa,0,0,0,0,0,Não,Ensino médio,Fundamental 1,3,4,5,Pública,4.0
+488,ETEC-HM,Conc-Sub,Negra,Masculino,1,19,2-3 vezes por semana,0,Muito ruim,Boa,Boa,Regular,0,0,0,0,0,Sim,Ensino médio,Ensino médio,4,4,4,Pública,4.0

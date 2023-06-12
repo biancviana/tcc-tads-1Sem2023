@@ -1,0 +1,10 @@
+Nome: Bianca Vitória dos Santos Viana
+
+Título: Predição de notas de alunos do ensino médio a partir de indicadores escolares e de bullying usando aprendizado de máquina
+
+Resumo: O bullying é considerado um problema de saúde pública, sendo fator estimulante de diversos transtornos emocionais e comportamentais, assim como a diminuição do desempenho acadêmico. O presente trabalho tem o propósito de investigar técnicas de aprendizado de máquina para a predição de notas de alunos do ensino médio a partir de indicadores escolares e de bullying. Avaliamos quatro diferentes tipos de algoritmos regressores de aprendizado de máquina: Linear Regression, Decision Tree, Random Forest e XGBoost. O algoritmo Random Forest obteve os melhores resultados, com uma menor raiz quadrática média de erros, comparado ao segundo melhor algoritmo. Considerando as variáveis mais relevantes para o treinamento deste modelo, observamos que ter uma relação regular com os professores foi a que mais influenciou nas notas dos alunos.
+Palavras-chave: bullying; desempenho escolar; aprendizado de máquina.
+
+Orientador: Prof. Dr. Samuel Botter Martins
+
+Mês/Ano: 
